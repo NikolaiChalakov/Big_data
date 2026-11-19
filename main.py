@@ -543,7 +543,7 @@ def ask_llm_for_business_analysis(df_merged, rfm_df, category_analysis, sentimen
 
     OPENROUTER_API_KEY = os.getenv(
         "OPENROUTER_API_KEY",
-        "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"
+        ""#enter api key here
     )
     MODEL = "google/gemma-3-27b-it:free"
 
