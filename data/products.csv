@@ -1,0 +1,26 @@
+﻿ProductID,ProductName,Category,UnitPrice,Cost
+PROD_001,Product_001_Edge,Clothing,781.32,449.58
+PROD_002,Product_002_Material,Electronics,628.65,392.14
+PROD_003,Product_003_Organization,Clothing,68.59,51.23
+PROD_004,Product_004_Make,Home & Garden,713.05,450.29
+PROD_005,Product_005_Speak,Home & Garden,18.95,14.51
+PROD_006,Product_006_Computer,Books,419.83,335.12
+PROD_007,Product_007_Policy,Electronics,137.8,88.8
+PROD_008,Product_008_Star,Clothing,561.44,349.03
+PROD_009,Product_009_Foreign,Electronics,196.82,119.89
+PROD_010,Product_010_Particular,Electronics,180.41,126.25
+PROD_011,Product_011_Woman,Home & Garden,603.99,375.78
+PROD_012,Product_012_Parent,Sports,686.77,426.12
+PROD_013,Product_013_Industry,Clothing,375.45,288.47
+PROD_014,Product_014_Bag,Books,265.46,190.18
+PROD_015,Product_015_Rock,Clothing,231.27,129.55
+PROD_016,Product_016_Blue,Home & Garden,352.69,202.62
+PROD_017,Product_017_To,Books,538.64,319.26
+PROD_018,Product_018_Support,Electronics,401.68,256.29
+PROD_019,Product_019_Style,Books,341.15,251.33
+PROD_020,Product_020_Stay,Electronics,511.21,364.0
+PROD_021,Product_021_Hand,Books,35.17,21.91
+PROD_022,Product_022_Later,Home & Garden,171.03,96.78
+PROD_023,Product_023_Authority,Books,837.02,477.43
+PROD_024,Product_024_Raise,Home & Garden,240.85,191.38
+PROD_025,Product_025_Actually,Sports,690.58,464.88

@@ -1,0 +1,121 @@
+﻿CustomerID,Name,Age,City,RegistrationDate,Category
+CUST_0001,Sean Blake,56.0,East Jill,2025-08-14,Gold
+CUST_0002,Donald Lewis,32.0,New Roberttown,2024-12-25,Silver
+CUST_0003,Brent Abbott,38.0,Lake Debra,2025-02-26,Standard
+CUST_0004,Monica Herrera,36.0,East Jessetown,2024-12-16,Standard
+CUST_0005,Sandra Montgomery,,  new roberttown ,2025-06-28,Gold
+CUST_0006,Benjamin Stanley,53.0,New Roberttown,2024-12-16,Standard
+CUST_0007,Sharon James,20.0,East Jessetown,2025-07-20,Standard
+CUST_0008,Carla Kelly,19.0,Robinsonshire,2025-02-27,Silver
+CUST_0009,Melinda Jones,47.0,Robinsonshire,2025-01-21,Standard
+CUST_0010,Danielle Ford,38.0,New Roberttown,2025-11-10,Silver
+CUST_0011,Kristin Cohen,39.0,North Judithbury,2025-02-12,Standard
+CUST_0012,Renee Morales,42.0,North Judithbury,2025-02-05,Standard
+CUST_0013,Latoya Robbins,59.0,East Jill,2025-07-28,Standard
+CUST_0014,Dr. Marvin Thomas Jr.,33.0,Robinsonshire,2025-06-22,Standard
+CUST_0015,Nicole Patterson,64.0,Lake Debra,2025-04-20,Silver
+CUST_0016,Zachary Taylor,61.0,East Jessetown,2024-12-21,Silver
+CUST_0017,Shannon Hernandez,20.0,East Jill,2025-09-19,Gold
+CUST_0018,Linda Cruz,24.0,Lake Debra,2025-05-16,Standard
+CUST_0019,Tricia Valencia,56.0,North Judithbury,2025-08-07,Standard
+CUST_0020,Melanie Herrera,42.0,New Roberttown,2025-09-10,VIP
+CUST_0021,Ashley Graham,67.0,East Jessetown,2024-11-17,Standard
+CUST_0022,Sherri Baker,43.0,Lake Debra,2025-09-07,Standard
+CUST_0023,Thomas Harrell,37.0,New Roberttown,2025-10-08,Standard
+CUST_0024,Lisa Hernandez,24.0,East Jill,2025-06-13,Silver
+CUST_0025,Tammy Sellers,25.0,Lake Debra,2025-03-21,Standard
+CUST_0026,Brian Cox DVM,31.0,New Roberttown,2025-02-16,Standard
+CUST_0027,Shawn Arroyo,67.0,  north judithbury ,2025-08-27,Silver
+CUST_0028,Mr. Philip Cannon,19.0,East Jill,2025-07-30,Standard
+CUST_0029,Joshua Baker,59.0,Lake Debra,2025-04-29,Silver
+CUST_0030,Tanya Campos,46.0,Robinsonshire,2025-02-02,VIP
+CUST_0031,Jennifer Powers,43.0,New Roberttown,2025-05-05,Standard
+CUST_0032,Jocelyn Wright,27.0,North Judithbury,2025-03-27,Gold
+CUST_0033,Julian Chapman,31.0,North Judithbury,2024-12-13,Silver
+CUST_0034,Amy Jones,32.0,North Judithbury,2025-10-15,Standard
+CUST_0035,Jose Ramirez,40.0,East Jessetown,2025-02-07,Silver
+CUST_0036,Miranda Khan,57.0,Lake Debra,2025-05-18,Gold
+CUST_0037,John Russell,62.0,North Judithbury,2024-12-23,Standard
+CUST_0038,Heather Jenkins,41.0,Robinsonshire,2024-12-07,Standard
+CUST_0039,Victoria Garcia,62.0,East Jessetown,2025-08-25,Standard
+CUST_0040,Scott Wright,32.0,East Jill,2025-06-12,Standard
+CUST_0041,Javier Ramirez,42.0,East Jill,2025-10-21,VIP
+CUST_0042,Jessica Callahan,41.0,Lake Debra,2024-12-24,Standard
+CUST_0043,Zachary Huff,25.0,North Judithbury,2025-11-10,Standard
+CUST_0044,Cynthia Russell,28.0,East Jessetown,2025-02-07,Standard
+CUST_0045,Stephanie Martin,,  north judithbury ,2025-04-16,Silver
+CUST_0046,Richard Gibson,50.0,East Jessetown,2025-08-13,Silver
+CUST_0047,Whitney Peters,59.0,Robinsonshire,2025-05-24,Standard
+CUST_0048,Edward Novak,,  lake debra ,2025-08-28,VIP
+CUST_0049,Nicole Brown,26.0,Lake Debra,2025-05-20,Silver
+CUST_0050,Sarah Moore,51.0,Lake Debra,2024-12-17,Standard
+CUST_0051,Andrea Jones,40.0,East Jill,2025-04-21,Silver
+CUST_0052,Steve Sanchez,54.0,Lake Debra,2024-12-01,Silver
+CUST_0053,Jennifer Silva,57.0,Lake Debra,2025-03-18,Standard
+CUST_0054,Christina Moran,52.0,East Jill,2025-02-27,Standard
+CUST_0055,Michael Evans,54.0,New Roberttown,2025-11-11,VIP
+CUST_0056,Angel Ellis,,  lake debra ,2024-12-24,Gold
+CUST_0057,Daniel Baker,43.0,New Roberttown,2025-10-24,Standard
+CUST_0058,David Mitchell,31.0,East Jessetown,2025-10-05,Standard
+CUST_0059,Elizabeth Riggs,26.0,Robinsonshire,2025-06-09,Silver
+CUST_0060,Robert Evans,43.0,Robinsonshire,2024-12-26,Standard
+CUST_0061,Brandy Wilson,30.0,North Judithbury,2025-08-31,Standard
+CUST_0062,Denise Jacobs,49.0,Robinsonshire,2025-03-29,Silver
+CUST_0063,Mark Baker,69.0,East Jessetown,2025-02-21,Silver
+CUST_0064,Sarah Davis,21.0,East Jessetown,2025-10-04,VIP
+CUST_0065,Aaron Wise,40.0,  robinsonshire ,2025-02-25,Silver
+CUST_0066,Jeremy Thornton,32.0,Lake Debra,2024-11-19,Gold
+CUST_0067,Tony Vazquez,53.0,East Jill,2025-06-15,VIP
+CUST_0068,Jacob Tran,24.0,East Jessetown,2025-01-04,Standard
+CUST_0069,Jacob Fitzpatrick,39.0,North Judithbury,2025-10-31,Gold
+CUST_0070,Michael Estrada,59.0,New Roberttown,2025-09-14,Gold
+CUST_0071,Shelly Dickson,23.0,Robinsonshire,2025-01-15,Standard
+CUST_0072,Cynthia Martin,61.0,East Jill,2025-10-24,Standard
+CUST_0073,Christopher Middleton,47.0,East Jessetown,2025-09-23,Gold
+CUST_0074,Nancy Wright,45.0,East Jill,2025-09-17,Standard
+CUST_0075,Janet Williams,50.0,East Jessetown,2025-02-10,Standard
+CUST_0076,Thomas Bailey,44.0,East Jill,2025-02-10,Standard
+CUST_0077,Corey Murphy,69.0,North Judithbury,2025-09-12,Standard
+CUST_0078,Martin Ross,20.0,Lake Debra,2025-03-24,Standard
+CUST_0079,Ashley Waller,25.0,East Jill,2025-06-29,Silver
+CUST_0080,Deborah Rodriguez,54.0,East Jessetown,2025-03-30,Silver
+CUST_0081,Emily Obrien,59.0,Lake Debra,2024-12-30,Standard
+CUST_0082,Kenneth Scott,32.0,Robinsonshire,2025-05-04,Standard
+CUST_0083,Timothy Ryan,49.0,Robinsonshire,2025-08-31,Silver
+CUST_0084,Christina Reynolds,58.0,Robinsonshire,2025-11-08,Standard
+CUST_0085,Erik Charles,66.0,Robinsonshire,2025-10-31,Standard
+CUST_0086,Eric Ortiz,29.0,East Jessetown,2025-08-13,Standard
+CUST_0087,Cameron Fisher,19.0,East Jessetown,2025-08-06,Silver
+CUST_0088,Carrie Carroll,54.0,East Jessetown,2025-06-16,Standard
+CUST_0089,Elizabeth Clark,34.0,Lake Debra,2025-07-09,Standard
+CUST_0090,Julie Ramos,19.0,East Jill,2025-06-02,Silver
+CUST_0091,Steven Flynn,40.0,East Jill,2025-07-29,Standard
+CUST_0092,Jose Schultz,50.0,New Roberttown,2024-12-22,Silver
+CUST_0093,Nicole Chambers,19.0,East Jill,2025-09-25,Silver
+CUST_0094,Alexander Sanchez,43.0,East Jessetown,2025-07-11,VIP
+CUST_0095,Angel Perry,49.0,Robinsonshire,2025-06-27,Silver
+CUST_0096,Michael Snyder,28.0,East Jill,2025-01-12,Standard
+CUST_0097,Abigail Potter,34.0,North Judithbury,2025-09-14,Silver
+CUST_0098,Christopher Rubio,41.0,Lake Debra,2025-05-15,Standard
+CUST_0099,David Charles,51.0,East Jessetown,2025-01-06,Silver
+CUST_0100,Mary Travis,28.0,Lake Debra,2025-03-19,Gold
+CUST_0101,Stephanie Salazar,33.0,Robinsonshire,2025-10-28,Gold
+CUST_0102,Sandra Kelley,23.0,East Jill,2025-08-31,Silver
+CUST_0103,Joanna Walton,20.0,Robinsonshire,2025-03-03,Silver
+CUST_0104,Kelly Sims,53.0,New Roberttown,2025-05-05,Standard
+CUST_0105,Dustin Nelson,20.0,New Roberttown,2025-10-28,Gold
+CUST_0106,Brenda Hall,37.0,Robinsonshire,2025-01-14,Silver
+CUST_0107,Amy Russell,69.0,Lake Debra,2025-05-15,VIP
+CUST_0108,Daniel Fisher,57.0,Lake Debra,2025-08-13,Standard
+CUST_0109,Spencer Johnston,35.0,East Jessetown,2024-11-18,Gold
+CUST_0110,Elizabeth Price,28.0,East Jessetown,2025-06-13,Standard
+CUST_0111,Kimberly Morrison,42.0,East Jill,2025-05-24,Standard
+CUST_0112,Jeffrey Johnson,48.0,New Roberttown,2025-08-02,Gold
+CUST_0113,Jennifer Martin,52.0,East Jessetown,2025-11-08,Standard
+CUST_0114,Marcus Johnson,33.0,East Jessetown,2025-07-03,Gold
+CUST_0115,Alyssa Day,69.0,East Jill,2025-10-18,Silver
+CUST_0116,Anthony Gray,19.0,East Jill,2025-05-11,VIP
+CUST_0117,Philip Gray,29.0,East Jessetown,2025-02-21,Silver
+CUST_0118,Julie Curry,49.0,North Judithbury,2025-03-31,Silver
+CUST_0119,Barry Bernard,26.0,North Judithbury,2025-09-04,Standard
+CUST_0120,David Combs,36.0,Lake Debra,2025-01-14,Silver

@@ -1,0 +1,1213 @@
+﻿OrderID,CustomerID,OrderDate,Status,PaymentMethod
+ORD_00001,CUST_0055,2026-10-18,Returned,Digital Wallet
+ORD_00002,CUST_0043,2026-10-16,Completed,Credit Card
+ORD_00003,CUST_0114,2026-09-01,Completed,Digital Wallet
+ORD_00004,CUST_0026,2026-01-13,Processing,Bank Transfer
+ORD_00005,CUST_0104,2026-02-19,Completed,Digital Wallet
+ORD_00006,CUST_0091,2026-08-31,Cancelled,Cash on Delivery
+ORD_00007,CUST_0046,2026-01-22,Cancelled,Digital Wallet
+ORD_00008,CUST_0001,2025-12-09,Completed,Cash on Delivery
+ORD_00009,CUST_0080,2026-05-01,Processing,Bank Transfer
+ORD_00010,CUST_0048,2026-10-05,Completed,Digital Wallet
+ORD_00011,CUST_0090,2026-06-28,Completed,Digital Wallet
+ORD_00012,CUST_0066,2026-05-07,Returned,Digital Wallet
+ORD_00013,CUST_0070,2025-11-23,Completed,Bank Transfer
+ORD_00014,CUST_0033,2026-05-25,Completed,Bank Transfer
+ORD_00015,CUST_0048,2026-10-27,Completed,Cash on Delivery
+ORD_00016,CUST_0117,2025-12-03,Completed,Credit Card
+ORD_00017,CUST_0105,2026-04-15,Completed,Bank Transfer
+ORD_00018,CUST_0098,2026-09-11,Completed,Digital Wallet
+ORD_00019,CUST_0110,2026-07-16,Cancelled,Cash on Delivery
+ORD_00020,CUST_0019,2026-06-28,Completed,Digital Wallet
+ORD_00021,CUST_0082,2026-06-30,Processing,Digital Wallet
+ORD_00022,CUST_0023,2026-02-08,Completed,Bank Transfer
+ORD_00023,CUST_0075,2026-01-12,Completed,Credit Card
+ORD_00024,CUST_0054,2026-08-14,Completed,Digital Wallet
+ORD_00025,CUST_0085,2026-08-14,Completed,Bank Transfer
+ORD_00026,CUST_0076,2026-09-06,Completed,Cash on Delivery
+ORD_00027,CUST_0015,2026-09-26,Completed,Digital Wallet
+ORD_00028,CUST_0060,2026-04-12,Completed,Cash on Delivery
+ORD_00029,CUST_0033,2026-04-08,Completed,Bank Transfer
+ORD_00030,CUST_0113,2026-08-09,Completed,Bank Transfer
+ORD_00031,CUST_0102,2026-06-09,Completed,Bank Transfer
+ORD_00032,CUST_0099,2026-06-30,Completed,Bank Transfer
+ORD_00033,CUST_0078,2026-08-08,Completed,Bank Transfer
+ORD_00034,CUST_0046,2026-09-16,Completed,Credit Card
+ORD_00035,CUST_0085,2026-01-31,Processing,Cash on Delivery
+ORD_00036,CUST_0048,2026-02-15,Processing,Credit Card
+ORD_00037,CUST_0028,2025-11-22,Completed,Cash on Delivery
+ORD_00038,CUST_0026,2026-05-10,Completed,Digital Wallet
+ORD_00039,CUST_0005,2025-11-09,Completed,Digital Wallet
+ORD_00040,CUST_0037,2026-03-24,Completed,Cash on Delivery
+ORD_00041,CUST_0100,2026-04-25,Completed,Digital Wallet
+ORD_00042,CUST_0048,2026-01-09,Completed,Digital Wallet
+ORD_00043,CUST_0046,2026-05-15,Completed,Digital Wallet
+ORD_00044,CUST_0043,2025-11-08,Completed,Credit Card
+ORD_00045,CUST_0023,09.11.2025,Completed,Credit Card
+ORD_00046,CUST_0080,2026-08-19,Completed,Bank Transfer
+ORD_00047,CUST_0015,2026-02-09,Completed,Cash on Delivery
+ORD_00048,CUST_0075,2025-11-30,Completed,Digital Wallet
+ORD_00049,CUST_0068,2026-04-17,Cancelled,Cash on Delivery
+ORD_00050,CUST_0086,28.07.2026,Completed,Bank Transfer
+ORD_00051,CUST_0078,2025-12-20,Completed,Bank Transfer
+ORD_00052,CUST_0112,2026-05-28,Completed,Digital Wallet
+ORD_00053,CUST_0110,2025-11-20,Completed,Bank Transfer
+ORD_00054,CUST_0111,2025-11-12,Completed,Digital Wallet
+ORD_00055,CUST_0008,2026-04-21,Completed,Bank Transfer
+ORD_00056,CUST_0036,2026-04-24,Completed,Bank Transfer
+ORD_00057,CUST_0002,2026-06-03,Completed,Digital Wallet
+ORD_00058,CUST_0004,2026-07-10,Processing,Bank Transfer
+ORD_00059,CUST_0094,22.10.2026,Completed,Bank Transfer
+ORD_00060,CUST_0095,2026-04-14,Processing,Bank Transfer
+ORD_00061,CUST_0039,2026-01-24,Completed,Cash on Delivery
+ORD_00062,CUST_0071,2026-08-08,Completed,Credit Card
+ORD_00063,CUST_0113,2026-01-03,Completed,Cash on Delivery
+ORD_00064,CUST_0042,2026-03-13,Cancelled,Bank Transfer
+ORD_00065,CUST_0084,2025-11-19,Completed,Credit Card
+ORD_00066,CUST_0007,2025-11-06,Completed,Cash on Delivery
+ORD_00067,CUST_0044,2026-10-16,Completed,Cash on Delivery
+ORD_00068,CUST_0106,2026-08-25,Completed,Cash on Delivery
+ORD_00069,CUST_0013,2026-06-28,Completed,Digital Wallet
+ORD_00070,CUST_0118,2026-03-01,Completed,Bank Transfer
+ORD_00071,CUST_0092,2025-12-10,Completed,Bank Transfer
+ORD_00072,CUST_0009,2025-12-06,Completed,Credit Card
+ORD_00073,CUST_0088,2025-12-28,Completed,Cash on Delivery
+ORD_00074,CUST_0042,2026-04-28,Cancelled,Bank Transfer
+ORD_00075,CUST_0080,2026-07-05,Completed,Cash on Delivery
+ORD_00076,CUST_0091,2026-06-13,Completed,Bank Transfer
+ORD_00077,CUST_0050,2026-01-07,Completed,Cash on Delivery
+ORD_00078,CUST_0100,2026-10-13,Completed,Bank Transfer
+ORD_00079,CUST_0074,2026-07-15,Completed,Credit Card
+ORD_00080,CUST_0019,2026-04-30,Completed,Cash on Delivery
+ORD_00081,CUST_0097,2026-05-24,Completed,Bank Transfer
+ORD_00082,CUST_0069,2026-03-05,Completed,Credit Card
+ORD_00083,CUST_0099,2025-12-27,Processing,Credit Card
+ORD_00084,CUST_0033,2026-02-07,Completed,Bank Transfer
+ORD_00085,CUST_0081,2026-07-23,Completed,Cash on Delivery
+ORD_00086,CUST_0037,2025-11-04,Completed,Digital Wallet
+ORD_00087,CUST_0092,2025-11-27,Completed,Credit Card
+ORD_00088,CUST_0011,2025-11-11,Completed,Credit Card
+ORD_00089,CUST_0078,2025-11-10,Completed,Bank Transfer
+ORD_00090,CUST_0057,2026-09-02,Completed,Digital Wallet
+ORD_00091,CUST_0002,2026-07-01,Completed,Digital Wallet
+ORD_00092,CUST_0007,2026-03-28,Completed,Digital Wallet
+ORD_00093,CUST_0067,2025-11-23,Completed,Bank Transfer
+ORD_00094,CUST_0039,2026-04-04,Completed,Cash on Delivery
+ORD_00095,CUST_0075,2026-03-28,Returned,Credit Card
+ORD_00096,CUST_0060,2025-12-10,Completed,Bank Transfer
+ORD_00097,CUST_0068,2026-03-11,Completed,Digital Wallet
+ORD_00098,CUST_0042,2026-02-25,Cancelled,Credit Card
+ORD_00099,CUST_0109,2026-05-26,Completed,Credit Card
+ORD_00100,CUST_0104,2026-06-03,Completed,Digital Wallet
+ORD_00101,CUST_0036,2025-11-11,Completed,Digital Wallet
+ORD_00102,CUST_0008,15.02.2026,Completed,Credit Card
+ORD_00103,CUST_0070,2026-05-30,Completed,Credit Card
+ORD_00104,CUST_0068,2026-04-09,Completed,Cash on Delivery
+ORD_00105,CUST_0060,2026-09-02,Completed,Cash on Delivery
+ORD_00106,CUST_0005,2026-06-12,Completed,Bank Transfer
+ORD_00107,CUST_0032,2025-12-08,Completed,Credit Card
+ORD_00108,CUST_0102,2025-11-17,Completed,Cash on Delivery
+ORD_00109,CUST_0067,2026-06-06,Completed,Credit Card
+ORD_00110,CUST_0058,07.11.2025,Completed,Digital Wallet
+ORD_00111,CUST_0070,2026-05-13,Completed,Cash on Delivery
+ORD_00112,CUST_0044,2026-10-07,Completed,Digital Wallet
+ORD_00113,CUST_0081,2026-05-09,Returned,Digital Wallet
+ORD_00114,CUST_0087,2026-02-20,Completed,Digital Wallet
+ORD_00115,CUST_0008,2026-06-06,Completed,Bank Transfer
+ORD_00116,CUST_0058,2026-03-21,Cancelled,Digital Wallet
+ORD_00117,CUST_0077,2026-04-26,Completed,Bank Transfer
+ORD_00118,CUST_0047,2026-10-07,Completed,Credit Card
+ORD_00119,CUST_0080,2026-02-19,Completed,Credit Card
+ORD_00120,CUST_0030,2026-10-15,Completed,Cash on Delivery
+ORD_00121,CUST_0016,2026-09-22,Completed,Cash on Delivery
+ORD_00122,CUST_0016,2025-12-16,Completed,Bank Transfer
+ORD_00123,CUST_0084,2025-11-16,Completed,Credit Card
+ORD_00124,CUST_0030,2025-11-24,Completed,Cash on Delivery
+ORD_00125,CUST_0092,2025-11-05,Returned,Cash on Delivery
+ORD_00126,CUST_0118,2025-11-22,Returned,Cash on Delivery
+ORD_00127,CUST_0104,2026-06-22,Completed,Credit Card
+ORD_00128,CUST_0065,2025-11-17,Processing,Cash on Delivery
+ORD_00129,CUST_0021,2026-01-23,Completed,Credit Card
+ORD_00130,CUST_0022,2026-08-28,Completed,Digital Wallet
+ORD_00131,CUST_0103,2025-11-06,Processing,Digital Wallet
+ORD_00132,CUST_0117,2026-08-16,Processing,Digital Wallet
+ORD_00133,CUST_0038,2026-01-07,Completed,Bank Transfer
+ORD_00134,CUST_0014,2025-11-28,Completed,Credit Card
+ORD_00135,CUST_0023,2026-06-28,Completed,Cash on Delivery
+ORD_00136,CUST_0066,2026-05-31,Completed,Bank Transfer
+ORD_00137,CUST_0002,2026-09-11,Cancelled,Bank Transfer
+ORD_00138,CUST_0073,2026-07-14,Completed,Digital Wallet
+ORD_00139,CUST_0067,2026-08-11,Completed,Credit Card
+ORD_00140,CUST_0023,2026-01-07,Cancelled,Cash on Delivery
+ORD_00141,CUST_0082,2025-12-11,Completed,Bank Transfer
+ORD_00142,CUST_0035,2026-07-20,Completed,Cash on Delivery
+ORD_00143,CUST_0015,2026-08-13,Returned,Digital Wallet
+ORD_00144,CUST_0101,2026-10-28,Completed,Credit Card
+ORD_00145,CUST_0012,2026-03-02,Cancelled,Cash on Delivery
+ORD_00146,CUST_0042,2026-02-14,Completed,Cash on Delivery
+ORD_00147,CUST_0045,2026-07-31,Completed,Bank Transfer
+ORD_00148,CUST_0088,2026-02-01,Completed,Cash on Delivery
+ORD_00149,CUST_0078,2026-10-03,Completed,Credit Card
+ORD_00150,CUST_0080,2026-09-03,Completed,Credit Card
+ORD_00151,CUST_0014,2026-03-09,Completed,Cash on Delivery
+ORD_00152,CUST_0021,2026-07-20,Completed,Bank Transfer
+ORD_00153,CUST_0091,2026-07-22,Completed,Bank Transfer
+ORD_00154,CUST_0082,2025-11-24,Cancelled,Digital Wallet
+ORD_00155,CUST_0082,2026-09-21,Completed,Credit Card
+ORD_00156,CUST_0025,2026-04-10,Completed,Digital Wallet
+ORD_00157,CUST_0054,2026-08-21,Completed,Bank Transfer
+ORD_00158,CUST_0095,2026-01-23,Completed,Digital Wallet
+ORD_00159,CUST_0110,2026-09-18,Processing,Bank Transfer
+ORD_00160,CUST_0110,2026-02-21,Completed,Digital Wallet
+ORD_00161,CUST_0003,2025-11-03,Cancelled,Digital Wallet
+ORD_00162,CUST_0006,2026-09-22,Completed,Credit Card
+ORD_00163,CUST_0117,2025-11-21,Completed,Credit Card
+ORD_00164,CUST_0021,2026-01-23,Completed,Digital Wallet
+ORD_00165,CUST_0025,2026-10-11,Completed,Bank Transfer
+ORD_00166,CUST_0045,2026-10-11,Completed,Bank Transfer
+ORD_00167,CUST_0032,2026-05-08,Completed,Credit Card
+ORD_00168,CUST_0092,2026-06-01,Completed,Credit Card
+ORD_00169,CUST_0078,2026-03-17,Processing,Cash on Delivery
+ORD_00170,CUST_0093,2026-01-12,Completed,Credit Card
+ORD_00171,CUST_0006,27.01.2026,Completed,Bank Transfer
+ORD_00172,CUST_0043,2026-06-18,Completed,Credit Card
+ORD_00173,CUST_0060,2026-07-21,Completed,Cash on Delivery
+ORD_00174,CUST_0031,2026-08-06,Completed,Digital Wallet
+ORD_00175,CUST_0083,2026-08-05,Completed,Digital Wallet
+ORD_00176,CUST_0089,2025-11-21,Completed,Bank Transfer
+ORD_00177,CUST_0011,2026-04-05,Completed,Cash on Delivery
+ORD_00178,CUST_0031,2025-11-14,Completed,Digital Wallet
+ORD_00179,CUST_0073,2026-04-28,Completed,Digital Wallet
+ORD_00180,CUST_0009,2026-03-14,Completed,Credit Card
+ORD_00181,CUST_0073,2026-09-15,Completed,Digital Wallet
+ORD_00182,CUST_0110,2026-02-05,Completed,Bank Transfer
+ORD_00183,CUST_0080,2025-11-27,Completed,Digital Wallet
+ORD_00184,CUST_0097,2025-12-03,Completed,Bank Transfer
+ORD_00185,CUST_0103,2026-07-25,Completed,Bank Transfer
+ORD_00186,CUST_0101,2026-05-27,Completed,Credit Card
+ORD_00187,CUST_0052,2025-11-24,Completed,Cash on Delivery
+ORD_00188,CUST_0036,2025-11-20,Completed,Bank Transfer
+ORD_00189,CUST_0103,2026-06-30,Completed,Digital Wallet
+ORD_00190,CUST_0101,2025-11-17,Processing,Digital Wallet
+ORD_00191,CUST_0062,2026-08-19,Completed,Bank Transfer
+ORD_00192,CUST_0099,2026-07-02,Completed,Digital Wallet
+ORD_00193,CUST_0092,2025-11-19,Completed,Credit Card
+ORD_00194,CUST_0071,2025-11-20,Completed,Digital Wallet
+ORD_00195,CUST_0086,2026-10-26,Returned,Credit Card
+ORD_00196,CUST_0055,2026-02-15,Completed,Bank Transfer
+ORD_00197,CUST_0091,2026-02-13,Completed,Bank Transfer
+ORD_00198,CUST_0102,2026-08-15,Completed,Bank Transfer
+ORD_00199,CUST_0010,2026-10-10,Completed,Credit Card
+ORD_00200,CUST_0120,2026-10-26,Completed,Digital Wallet
+ORD_00201,CUST_0065,2026-07-21,Completed,Credit Card
+ORD_00202,CUST_0090,2026-02-15,Completed,Digital Wallet
+ORD_00203,CUST_0085,2025-11-20,Completed,Digital Wallet
+ORD_00204,CUST_0101,2026-07-31,Cancelled,Credit Card
+ORD_00205,CUST_0036,2026-05-02,Completed,Cash on Delivery
+ORD_00206,CUST_0113,2026-03-07,Completed,Bank Transfer
+ORD_00207,CUST_0063,2026-09-23,Completed,Digital Wallet
+ORD_00208,CUST_0055,2025-11-26,Completed,Digital Wallet
+ORD_00209,CUST_0068,2026-04-05,Processing,Credit Card
+ORD_00210,CUST_0112,2025-11-03,Completed,Cash on Delivery
+ORD_00211,CUST_0104,2026-03-26,Completed,Bank Transfer
+ORD_00212,CUST_0093,2025-11-13,Completed,Cash on Delivery
+ORD_00213,CUST_0038,2025-11-28,Completed,Bank Transfer
+ORD_00214,CUST_0042,2025-11-28,Processing,Digital Wallet
+ORD_00215,CUST_0105,2026-06-08,Completed,Digital Wallet
+ORD_00216,CUST_0120,2026-07-18,Completed,Credit Card
+ORD_00217,CUST_0001,2026-05-12,Completed,Credit Card
+ORD_00218,CUST_0048,2026-10-16,Completed,Cash on Delivery
+ORD_00219,CUST_0010,2026-02-15,Cancelled,Cash on Delivery
+ORD_00220,CUST_0060,2026-01-09,Completed,Bank Transfer
+ORD_00221,CUST_0028,2026-09-07,Completed,Credit Card
+ORD_00222,CUST_0034,2025-12-22,Completed,Digital Wallet
+ORD_00223,CUST_0086,2026-10-16,Completed,Credit Card
+ORD_00224,CUST_0079,2025-11-03,Processing,Cash on Delivery
+ORD_00225,CUST_0087,2026-10-19,Completed,Credit Card
+ORD_00226,CUST_0083,2025-11-10,Completed,Digital Wallet
+ORD_00227,CUST_0044,2026-09-16,Completed,Credit Card
+ORD_00228,CUST_0101,2026-04-19,Completed,Cash on Delivery
+ORD_00229,CUST_0072,2026-10-29,Completed,Digital Wallet
+ORD_00230,CUST_0043,2025-11-17,Completed,Bank Transfer
+ORD_00231,CUST_0051,2026-04-30,Completed,Bank Transfer
+ORD_00232,CUST_0024,2026-10-19,Completed,Digital Wallet
+ORD_00233,CUST_0020,2026-04-17,Completed,Digital Wallet
+ORD_00234,CUST_0058,2026-05-31,Completed,Digital Wallet
+ORD_00235,CUST_0100,2026-06-28,Completed,Cash on Delivery
+ORD_00236,CUST_0015,2026-03-20,Cancelled,Digital Wallet
+ORD_00237,CUST_0115,2026-05-30,Completed,Cash on Delivery
+ORD_00238,CUST_0107,2026-05-12,Completed,Digital Wallet
+ORD_00239,CUST_0005,2026-09-21,Completed,Cash on Delivery
+ORD_00240,CUST_0096,2025-11-11,Completed,Cash on Delivery
+ORD_00241,CUST_0010,07.01.2026,Completed,Credit Card
+ORD_00242,CUST_0096,2026-10-11,Completed,Bank Transfer
+ORD_00243,CUST_0081,2026-09-16,Completed,Digital Wallet
+ORD_00244,CUST_0104,2026-03-20,Completed,Bank Transfer
+ORD_00245,CUST_0066,2026-05-27,Completed,Bank Transfer
+ORD_00246,CUST_0067,2026-01-05,Completed,Credit Card
+ORD_00247,CUST_0068,2025-12-14,Completed,Bank Transfer
+ORD_00248,CUST_0041,2026-03-24,Cancelled,Bank Transfer
+ORD_00249,CUST_0119,2026-02-06,Completed,Digital Wallet
+ORD_00250,CUST_0114,2026-05-12,Completed,Cash on Delivery
+ORD_00251,CUST_0036,2025-11-18,Completed,Digital Wallet
+ORD_00252,CUST_0104,2026-10-21,Completed,Digital Wallet
+ORD_00253,CUST_0013,2026-10-26,Completed,Bank Transfer
+ORD_00254,CUST_0095,2026-06-29,Completed,Bank Transfer
+ORD_00255,CUST_0032,2026-04-23,Completed,Digital Wallet
+ORD_00256,CUST_0011,2026-01-19,Completed,Digital Wallet
+ORD_00257,CUST_0017,2026-08-15,Cancelled,Bank Transfer
+ORD_00258,CUST_0055,2026-06-23,Completed,Cash on Delivery
+ORD_00259,CUST_0104,2025-12-08,Completed,Cash on Delivery
+ORD_00260,CUST_0089,2026-09-25,Completed,Digital Wallet
+ORD_00261,CUST_0116,2026-08-19,Completed,Cash on Delivery
+ORD_00262,CUST_0085,2026-10-11,Completed,Digital Wallet
+ORD_00263,CUST_0051,2026-07-10,Processing,Credit Card
+ORD_00264,CUST_0120,2026-05-25,Returned,Bank Transfer
+ORD_00265,CUST_0032,2026-03-05,Completed,Digital Wallet
+ORD_00266,CUST_0039,2026-10-04,Processing,Digital Wallet
+ORD_00267,CUST_0105,2026-09-06,Completed,Digital Wallet
+ORD_00268,CUST_0021,2025-11-11,Completed,Cash on Delivery
+ORD_00269,CUST_0021,2025-11-07,Returned,Digital Wallet
+ORD_00270,CUST_0046,2026-02-15,Completed,Credit Card
+ORD_00271,CUST_0007,2026-08-14,Completed,Cash on Delivery
+ORD_00272,CUST_0096,2026-10-26,Completed,Bank Transfer
+ORD_00273,CUST_0086,2025-12-05,Completed,Credit Card
+ORD_00274,CUST_0089,2026-05-17,Cancelled,Digital Wallet
+ORD_00275,CUST_0029,2026-02-17,Completed,Credit Card
+ORD_00276,CUST_0002,2026-10-19,Completed,Digital Wallet
+ORD_00277,CUST_0079,2026-08-27,Completed,Credit Card
+ORD_00278,CUST_0050,26.08.2026,Completed,Cash on Delivery
+ORD_00279,CUST_0115,2026-03-26,Completed,Digital Wallet
+ORD_00280,CUST_0044,2026-03-03,Completed,Cash on Delivery
+ORD_00281,CUST_0043,2026-01-04,Completed,Credit Card
+ORD_00282,CUST_0097,2025-11-13,Completed,Digital Wallet
+ORD_00283,CUST_0063,2026-09-06,Completed,Bank Transfer
+ORD_00284,CUST_0023,2026-08-15,Completed,Bank Transfer
+ORD_00285,CUST_0039,2026-10-31,Completed,Digital Wallet
+ORD_00286,CUST_0025,2026-10-30,Completed,Credit Card
+ORD_00287,CUST_0111,2026-05-01,Completed,Bank Transfer
+ORD_00288,CUST_0058,2026-07-28,Completed,Digital Wallet
+ORD_00289,CUST_0001,2026-10-09,Completed,Bank Transfer
+ORD_00290,CUST_0003,2026-08-30,Returned,Digital Wallet
+ORD_00291,CUST_0104,2025-12-27,Completed,Credit Card
+ORD_00292,CUST_0064,2026-03-18,Completed,Credit Card
+ORD_00293,CUST_0107,2025-11-30,Completed,Cash on Delivery
+ORD_00294,CUST_0021,2026-10-12,Completed,Bank Transfer
+ORD_00295,CUST_0103,2026-05-22,Completed,Cash on Delivery
+ORD_00296,CUST_0066,2025-12-23,Completed,Credit Card
+ORD_00297,CUST_0013,2026-06-18,Completed,Digital Wallet
+ORD_00298,CUST_0036,2026-05-26,Completed,Credit Card
+ORD_00299,CUST_0090,2026-02-08,Processing,Credit Card
+ORD_00300,CUST_0012,2025-11-27,Completed,Digital Wallet
+ORD_00301,CUST_0014,2026-06-18,Completed,Cash on Delivery
+ORD_00302,CUST_0053,2026-04-16,Completed,Bank Transfer
+ORD_00303,CUST_0075,2026-07-29,Completed,Credit Card
+ORD_00304,CUST_0095,2026-04-16,Completed,Credit Card
+ORD_00305,CUST_0056,2026-08-31,Completed,Bank Transfer
+ORD_00306,CUST_0058,2026-04-29,Completed,Credit Card
+ORD_00307,CUST_0004,2026-05-03,Completed,Bank Transfer
+ORD_00308,CUST_0024,2026-09-10,Completed,Bank Transfer
+ORD_00309,CUST_0026,2026-02-27,Completed,Bank Transfer
+ORD_00310,CUST_0085,2025-12-01,Completed,Digital Wallet
+ORD_00311,CUST_0103,2025-11-07,Completed,Cash on Delivery
+ORD_00312,CUST_0038,2026-07-22,Completed,Cash on Delivery
+ORD_00313,CUST_0060,2026-05-27,Completed,Digital Wallet
+ORD_00314,CUST_0020,2026-07-01,Completed,Cash on Delivery
+ORD_00315,CUST_0071,2025-12-19,Completed,Cash on Delivery
+ORD_00316,CUST_0014,2025-12-02,Completed,Cash on Delivery
+ORD_00317,CUST_0101,2025-11-04,Completed,Credit Card
+ORD_00318,CUST_0055,2026-02-05,Completed,Digital Wallet
+ORD_00319,CUST_0120,2026-05-15,Completed,Cash on Delivery
+ORD_00320,CUST_0034,2026-02-22,Completed,Digital Wallet
+ORD_00321,CUST_0019,2026-03-13,Completed,Cash on Delivery
+ORD_00322,CUST_0060,2026-09-22,Completed,Cash on Delivery
+ORD_00323,CUST_0063,2026-02-04,Completed,Digital Wallet
+ORD_00324,CUST_0022,13.04.2026,Completed,Bank Transfer
+ORD_00325,CUST_0076,2026-08-03,Completed,Digital Wallet
+ORD_00326,CUST_0102,2026-02-24,Completed,Bank Transfer
+ORD_00327,CUST_0100,2026-05-28,Completed,Credit Card
+ORD_00328,CUST_0048,2026-09-05,Completed,Digital Wallet
+ORD_00329,CUST_0094,2026-10-11,Completed,Bank Transfer
+ORD_00330,CUST_0055,2025-12-04,Completed,Cash on Delivery
+ORD_00331,CUST_0063,2026-10-01,Completed,Credit Card
+ORD_00332,CUST_0092,2026-04-04,Completed,Digital Wallet
+ORD_00333,CUST_0075,2025-12-30,Completed,Bank Transfer
+ORD_00334,CUST_0118,2026-03-22,Completed,Bank Transfer
+ORD_00335,CUST_0017,2026-10-23,Completed,Digital Wallet
+ORD_00336,CUST_0020,2026-04-05,Completed,Bank Transfer
+ORD_00337,CUST_0091,2026-01-27,Completed,Digital Wallet
+ORD_00338,CUST_0047,2026-06-02,Processing,Bank Transfer
+ORD_00339,CUST_0075,2025-12-26,Completed,Cash on Delivery
+ORD_00340,CUST_0090,2025-11-18,Completed,Digital Wallet
+ORD_00341,CUST_0116,2025-11-30,Completed,Digital Wallet
+ORD_00342,CUST_0050,2025-11-30,Completed,Credit Card
+ORD_00343,CUST_0107,2025-12-05,Completed,Cash on Delivery
+ORD_00344,CUST_0118,2025-12-02,Completed,Digital Wallet
+ORD_00345,CUST_0081,05.06.2026,Cancelled,Bank Transfer
+ORD_00346,CUST_0051,2025-12-12,Cancelled,Bank Transfer
+ORD_00347,CUST_0042,2026-02-03,Processing,Bank Transfer
+ORD_00348,CUST_0026,2026-09-19,Processing,Credit Card
+ORD_00349,CUST_0093,2026-03-28,Completed,Digital Wallet
+ORD_00350,CUST_0084,2026-06-16,Completed,Bank Transfer
+ORD_00351,CUST_0074,2025-12-10,Cancelled,Credit Card
+ORD_00352,CUST_0100,2025-12-15,Completed,Credit Card
+ORD_00353,CUST_0004,2025-11-10,Completed,Digital Wallet
+ORD_00354,CUST_0039,2025-12-09,Completed,Bank Transfer
+ORD_00355,CUST_0001,2026-01-06,Completed,Cash on Delivery
+ORD_00356,CUST_0100,2025-12-11,Completed,Bank Transfer
+ORD_00357,CUST_0054,2025-11-21,Completed,Cash on Delivery
+ORD_00358,CUST_0108,2025-11-28,Completed,Cash on Delivery
+ORD_00359,CUST_0031,22.03.2026,Cancelled,Bank Transfer
+ORD_00360,CUST_0089,2025-12-18,Cancelled,Cash on Delivery
+ORD_00361,CUST_0030,2026-02-10,Completed,Credit Card
+ORD_00362,CUST_0106,2026-04-09,Completed,Credit Card
+ORD_00363,CUST_0092,25.06.2026,Completed,Bank Transfer
+ORD_00364,CUST_0055,2025-11-10,Cancelled,Digital Wallet
+ORD_00365,CUST_0120,2026-08-09,Returned,Credit Card
+ORD_00366,CUST_0016,2026-05-31,Completed,Bank Transfer
+ORD_00367,CUST_0106,2025-11-19,Processing,Cash on Delivery
+ORD_00368,CUST_0070,2026-09-09,Completed,Credit Card
+ORD_00369,CUST_0045,2026-09-29,Processing,Bank Transfer
+ORD_00370,CUST_0107,2025-11-15,Completed,Bank Transfer
+ORD_00371,CUST_0107,2026-01-05,Completed,Digital Wallet
+ORD_00372,CUST_0068,2026-08-12,Completed,Cash on Delivery
+ORD_00373,CUST_0091,2026-07-19,Completed,Cash on Delivery
+ORD_00374,CUST_0015,2025-12-13,Completed,Cash on Delivery
+ORD_00375,CUST_0120,2025-12-19,Completed,Bank Transfer
+ORD_00376,CUST_0088,2026-02-13,Completed,Bank Transfer
+ORD_00377,CUST_0071,2026-04-01,Completed,Cash on Delivery
+ORD_00378,CUST_0026,2026-05-27,Completed,Bank Transfer
+ORD_00379,CUST_0014,2026-02-12,Completed,Digital Wallet
+ORD_00380,CUST_0058,2026-03-23,Returned,Bank Transfer
+ORD_00381,CUST_0069,19.07.2026,Completed,Bank Transfer
+ORD_00382,CUST_0090,2025-11-09,Completed,Credit Card
+ORD_00383,CUST_0049,2025-12-29,Completed,Digital Wallet
+ORD_00384,CUST_0089,2026-07-05,Cancelled,Credit Card
+ORD_00385,CUST_0012,2026-09-18,Completed,Cash on Delivery
+ORD_00386,CUST_0041,2026-04-12,Completed,Cash on Delivery
+ORD_00387,CUST_0117,2026-04-21,Completed,Digital Wallet
+ORD_00388,CUST_0106,2025-11-25,Completed,Bank Transfer
+ORD_00389,CUST_0086,2026-03-17,Completed,Credit Card
+ORD_00390,CUST_0081,2026-04-21,Returned,Digital Wallet
+ORD_00391,CUST_0061,26.12.2025,Processing,Credit Card
+ORD_00392,CUST_0058,2026-01-02,Completed,Bank Transfer
+ORD_00393,CUST_0039,2026-02-16,Completed,Credit Card
+ORD_00394,CUST_0017,2025-11-05,Completed,Digital Wallet
+ORD_00395,CUST_0110,2026-01-24,Completed,Bank Transfer
+ORD_00396,CUST_0065,2025-12-19,Completed,Bank Transfer
+ORD_00397,CUST_0005,2026-01-26,Cancelled,Digital Wallet
+ORD_00398,CUST_0112,2025-11-28,Completed,Bank Transfer
+ORD_00399,CUST_0074,2026-09-16,Completed,Credit Card
+ORD_00400,CUST_0112,2026-05-16,Completed,Cash on Delivery
+ORD_00401,CUST_0039,2026-06-21,Completed,Digital Wallet
+ORD_00402,CUST_0088,2026-08-05,Completed,Credit Card
+ORD_00403,CUST_0038,2026-04-07,Completed,Bank Transfer
+ORD_00404,CUST_0010,2025-11-20,Returned,Cash on Delivery
+ORD_00405,CUST_0115,2026-04-23,Completed,Credit Card
+ORD_00406,CUST_0064,2026-05-14,Completed,Digital Wallet
+ORD_00407,CUST_0021,2026-07-18,Completed,Bank Transfer
+ORD_00408,CUST_0068,2026-03-10,Completed,Digital Wallet
+ORD_00409,CUST_0086,2025-11-30,Completed,Credit Card
+ORD_00410,CUST_0104,2026-01-08,Processing,Cash on Delivery
+ORD_00411,CUST_0086,2026-02-10,Completed,Credit Card
+ORD_00412,CUST_0014,07.06.2026,Completed,Credit Card
+ORD_00413,CUST_0105,2026-05-07,Completed,Bank Transfer
+ORD_00414,CUST_0028,2026-02-07,Completed,Digital Wallet
+ORD_00415,CUST_0063,2026-10-26,Completed,Credit Card
+ORD_00416,CUST_0120,2026-05-21,Completed,Credit Card
+ORD_00417,CUST_0072,2025-12-25,Completed,Cash on Delivery
+ORD_00418,CUST_0042,2025-11-24,Completed,Cash on Delivery
+ORD_00419,CUST_0006,2025-12-06,Completed,Digital Wallet
+ORD_00420,CUST_0023,2025-12-27,Processing,Digital Wallet
+ORD_00421,CUST_0050,2025-12-07,Completed,Bank Transfer
+ORD_00422,CUST_0069,2025-12-13,Returned,Digital Wallet
+ORD_00423,CUST_0120,2026-01-09,Completed,Cash on Delivery
+ORD_00424,CUST_0008,10.12.2025,Completed,Digital Wallet
+ORD_00425,CUST_0092,2026-09-19,Completed,Credit Card
+ORD_00426,CUST_0101,2025-11-19,Completed,Digital Wallet
+ORD_00427,CUST_0055,2026-04-18,Completed,Digital Wallet
+ORD_00428,CUST_0015,2026-03-02,Cancelled,Bank Transfer
+ORD_00429,CUST_0104,2026-10-24,Completed,Credit Card
+ORD_00430,CUST_0060,2025-11-26,Completed,Bank Transfer
+ORD_00431,CUST_0012,2026-02-24,Completed,Cash on Delivery
+ORD_00432,CUST_0080,2026-10-19,Processing,Digital Wallet
+ORD_00433,CUST_0003,2026-09-06,Processing,Digital Wallet
+ORD_00434,CUST_0107,2026-08-17,Returned,Cash on Delivery
+ORD_00435,CUST_0033,2025-12-30,Completed,Bank Transfer
+ORD_00436,CUST_0119,2025-12-10,Completed,Credit Card
+ORD_00437,CUST_0101,2026-06-16,Completed,Bank Transfer
+ORD_00438,CUST_0048,2026-10-02,Completed,Bank Transfer
+ORD_00439,CUST_0004,2026-05-01,Completed,Credit Card
+ORD_00440,CUST_0110,07.05.2026,Completed,Digital Wallet
+ORD_00441,CUST_0032,2026-01-07,Completed,Bank Transfer
+ORD_00442,CUST_0011,2026-07-28,Completed,Cash on Delivery
+ORD_00443,CUST_0016,2025-12-13,Returned,Credit Card
+ORD_00444,CUST_0109,2026-01-25,Returned,Digital Wallet
+ORD_00445,CUST_0021,2026-03-08,Completed,Credit Card
+ORD_00446,CUST_0034,2026-04-11,Completed,Cash on Delivery
+ORD_00447,CUST_0102,2025-12-26,Returned,Credit Card
+ORD_00448,CUST_0059,2025-11-27,Completed,Credit Card
+ORD_00449,CUST_0027,2026-05-23,Completed,Bank Transfer
+ORD_00450,CUST_0003,2026-01-10,Completed,Cash on Delivery
+ORD_00451,CUST_0025,2026-05-11,Processing,Cash on Delivery
+ORD_00452,CUST_0026,2025-12-06,Completed,Cash on Delivery
+ORD_00453,CUST_0005,2026-03-31,Returned,Credit Card
+ORD_00454,CUST_0092,2026-04-21,Processing,Cash on Delivery
+ORD_00455,CUST_0116,2025-11-12,Cancelled,Cash on Delivery
+ORD_00456,CUST_0006,2026-01-30,Completed,Cash on Delivery
+ORD_00457,CUST_0044,2025-12-01,Returned,Bank Transfer
+ORD_00458,CUST_0066,2025-11-15,Processing,Cash on Delivery
+ORD_00459,CUST_0108,2026-10-27,Completed,Credit Card
+ORD_00460,CUST_0088,2026-01-24,Completed,Bank Transfer
+ORD_00461,CUST_0003,2026-08-14,Processing,Cash on Delivery
+ORD_00462,CUST_0030,2025-12-29,Completed,Cash on Delivery
+ORD_00463,CUST_0021,2026-06-22,Completed,Bank Transfer
+ORD_00464,CUST_0090,2026-07-24,Completed,Cash on Delivery
+ORD_00465,CUST_0085,2026-05-17,Completed,Credit Card
+ORD_00466,CUST_0034,2026-03-27,Completed,Credit Card
+ORD_00467,CUST_0047,2026-03-02,Completed,Cash on Delivery
+ORD_00468,CUST_0075,2026-02-04,Completed,Credit Card
+ORD_00469,CUST_0048,2026-10-02,Completed,Bank Transfer
+ORD_00470,CUST_0017,2026-08-22,Processing,Cash on Delivery
+ORD_00471,CUST_0011,2026-10-17,Processing,Bank Transfer
+ORD_00472,CUST_0091,2025-11-29,Completed,Credit Card
+ORD_00473,CUST_0084,2026-07-12,Completed,Cash on Delivery
+ORD_00474,CUST_0034,2026-10-06,Completed,Bank Transfer
+ORD_00475,CUST_0040,2025-12-12,Completed,Credit Card
+ORD_00476,CUST_0047,2025-11-16,Completed,Cash on Delivery
+ORD_00477,CUST_0073,2026-07-16,Completed,Digital Wallet
+ORD_00478,CUST_0001,2026-05-08,Processing,Credit Card
+ORD_00479,CUST_0087,2026-08-27,Completed,Credit Card
+ORD_00480,CUST_0067,2025-12-03,Completed,Digital Wallet
+ORD_00481,CUST_0025,2026-08-08,Completed,Digital Wallet
+ORD_00482,CUST_0015,2025-12-17,Completed,Bank Transfer
+ORD_00483,CUST_0099,2025-12-08,Completed,Credit Card
+ORD_00484,CUST_0053,2025-12-08,Completed,Digital Wallet
+ORD_00485,CUST_0014,2026-08-16,Cancelled,Cash on Delivery
+ORD_00486,CUST_0017,2026-06-15,Completed,Credit Card
+ORD_00487,CUST_0099,2026-04-17,Completed,Bank Transfer
+ORD_00488,CUST_0079,2026-02-08,Completed,Digital Wallet
+ORD_00489,CUST_0097,2026-09-11,Processing,Credit Card
+ORD_00490,CUST_0091,2026-02-22,Completed,Credit Card
+ORD_00491,CUST_0091,2026-08-17,Completed,Digital Wallet
+ORD_00492,CUST_0046,2026-03-13,Completed,Digital Wallet
+ORD_00493,CUST_0100,2026-02-16,Completed,Digital Wallet
+ORD_00494,CUST_0062,2026-03-23,Completed,Credit Card
+ORD_00495,CUST_0030,2026-01-15,Completed,Digital Wallet
+ORD_00496,CUST_0084,2026-07-19,Completed,Digital Wallet
+ORD_00497,CUST_0040,2026-04-09,Completed,Credit Card
+ORD_00498,CUST_0026,2025-12-24,Returned,Credit Card
+ORD_00499,CUST_0022,2026-09-20,Processing,Bank Transfer
+ORD_00500,CUST_0083,2026-02-19,Returned,Cash on Delivery
+ORD_00501,CUST_0003,2026-04-26,Completed,Credit Card
+ORD_00502,CUST_0073,2026-09-23,Processing,Cash on Delivery
+ORD_00503,CUST_0045,2026-05-29,Returned,Bank Transfer
+ORD_00504,CUST_0063,2025-11-27,Completed,Bank Transfer
+ORD_00505,CUST_0119,2026-10-07,Completed,Digital Wallet
+ORD_00506,CUST_0019,2026-05-30,Processing,Bank Transfer
+ORD_00507,CUST_0014,2026-01-29,Completed,Digital Wallet
+ORD_00508,CUST_0053,2025-12-03,Completed,Digital Wallet
+ORD_00509,CUST_0040,2026-08-07,Completed,Credit Card
+ORD_00510,CUST_0009,2026-05-27,Completed,Credit Card
+ORD_00511,CUST_0120,2026-04-21,Completed,Cash on Delivery
+ORD_00512,CUST_0014,2026-09-18,Completed,Digital Wallet
+ORD_00513,CUST_0099,2026-08-05,Completed,Digital Wallet
+ORD_00514,CUST_0078,2025-12-05,Completed,Cash on Delivery
+ORD_00515,CUST_0068,2026-01-20,Completed,Digital Wallet
+ORD_00516,CUST_0092,2025-12-28,Processing,Bank Transfer
+ORD_00517,CUST_0105,2026-07-18,Completed,Digital Wallet
+ORD_00518,CUST_0086,2025-11-08,Processing,Digital Wallet
+ORD_00519,CUST_0055,2026-05-07,Completed,Digital Wallet
+ORD_00520,CUST_0062,2026-07-25,Completed,Credit Card
+ORD_00521,CUST_0030,2026-09-11,Completed,Bank Transfer
+ORD_00522,CUST_0011,2026-02-01,Returned,Digital Wallet
+ORD_00523,CUST_0050,2026-08-19,Completed,Bank Transfer
+ORD_00524,CUST_0021,26.11.2025,Completed,Bank Transfer
+ORD_00525,CUST_0020,2026-08-29,Completed,Bank Transfer
+ORD_00526,CUST_0044,2025-11-30,Completed,Cash on Delivery
+ORD_00527,CUST_0073,2026-02-24,Cancelled,Digital Wallet
+ORD_00528,CUST_0068,2026-08-09,Processing,Credit Card
+ORD_00529,CUST_0098,2025-12-05,Processing,Credit Card
+ORD_00530,CUST_0065,2025-12-23,Completed,Credit Card
+ORD_00531,CUST_0087,2026-07-09,Completed,Credit Card
+ORD_00532,CUST_0076,2026-07-08,Cancelled,Digital Wallet
+ORD_00533,CUST_0046,2026-06-05,Completed,Credit Card
+ORD_00534,CUST_0105,2026-06-27,Completed,Bank Transfer
+ORD_00535,CUST_0052,2026-04-25,Completed,Cash on Delivery
+ORD_00536,CUST_0104,2025-12-28,Cancelled,Credit Card
+ORD_00537,CUST_0038,2026-02-03,Completed,Bank Transfer
+ORD_00538,CUST_0029,2025-12-12,Completed,Credit Card
+ORD_00539,CUST_0055,2026-09-24,Completed,Digital Wallet
+ORD_00540,CUST_0028,2026-05-12,Completed,Bank Transfer
+ORD_00541,CUST_0076,2026-02-26,Completed,Digital Wallet
+ORD_00542,CUST_0086,2026-03-23,Completed,Credit Card
+ORD_00543,CUST_0088,2026-10-10,Completed,Bank Transfer
+ORD_00544,CUST_0055,2025-12-06,Returned,Bank Transfer
+ORD_00545,CUST_0072,2026-05-13,Completed,Bank Transfer
+ORD_00546,CUST_0006,2026-04-10,Processing,Credit Card
+ORD_00547,CUST_0082,2026-05-24,Completed,Cash on Delivery
+ORD_00548,CUST_0012,2025-11-05,Completed,Cash on Delivery
+ORD_00549,CUST_0027,2026-09-09,Completed,Digital Wallet
+ORD_00550,CUST_0106,2026-10-03,Returned,Cash on Delivery
+ORD_00551,CUST_0093,2026-05-05,Completed,Credit Card
+ORD_00552,CUST_0099,2026-06-28,Completed,Bank Transfer
+ORD_00553,CUST_0035,2026-09-29,Completed,Bank Transfer
+ORD_00554,CUST_0084,2026-07-02,Completed,Credit Card
+ORD_00555,CUST_0013,2025-12-06,Completed,Bank Transfer
+ORD_00556,CUST_0049,2026-05-09,Completed,Cash on Delivery
+ORD_00557,CUST_0062,2026-05-22,Processing,Digital Wallet
+ORD_00558,CUST_0020,2026-03-07,Completed,Credit Card
+ORD_00559,CUST_0090,2026-07-14,Completed,Bank Transfer
+ORD_00560,CUST_0117,2026-10-04,Completed,Credit Card
+ORD_00561,CUST_0062,2026-10-01,Completed,Cash on Delivery
+ORD_00562,CUST_0054,2026-03-18,Cancelled,Bank Transfer
+ORD_00563,CUST_0009,2025-11-27,Completed,Bank Transfer
+ORD_00564,CUST_0049,2026-10-25,Completed,Bank Transfer
+ORD_00565,CUST_0088,2026-08-26,Completed,Bank Transfer
+ORD_00566,CUST_0059,2025-11-29,Completed,Credit Card
+ORD_00567,CUST_0041,2026-09-29,Completed,Cash on Delivery
+ORD_00568,CUST_0064,2026-09-08,Completed,Cash on Delivery
+ORD_00569,CUST_0019,2026-04-15,Completed,Digital Wallet
+ORD_00570,CUST_0046,2026-05-15,Completed,Credit Card
+ORD_00571,CUST_0040,25.02.2026,Completed,Cash on Delivery
+ORD_00572,CUST_0076,2025-11-13,Processing,Credit Card
+ORD_00573,CUST_0061,2026-01-29,Completed,Credit Card
+ORD_00574,CUST_0012,2026-08-11,Completed,Cash on Delivery
+ORD_00575,CUST_0033,2025-11-02,Processing,Digital Wallet
+ORD_00576,CUST_0103,2026-01-29,Cancelled,Digital Wallet
+ORD_00577,CUST_0069,2026-02-24,Completed,Digital Wallet
+ORD_00578,CUST_0091,2026-04-23,Completed,Bank Transfer
+ORD_00579,CUST_0030,2026-09-28,Completed,Cash on Delivery
+ORD_00580,CUST_0087,2026-02-03,Completed,Bank Transfer
+ORD_00581,CUST_0084,2026-02-03,Completed,Bank Transfer
+ORD_00582,CUST_0066,2026-07-15,Completed,Bank Transfer
+ORD_00583,CUST_0033,2026-03-19,Completed,Credit Card
+ORD_00584,CUST_0082,2025-12-22,Completed,Credit Card
+ORD_00585,CUST_0111,2026-03-19,Completed,Cash on Delivery
+ORD_00586,CUST_0084,2025-12-03,Cancelled,Cash on Delivery
+ORD_00587,CUST_0076,2025-12-11,Completed,Credit Card
+ORD_00588,CUST_0015,2026-04-07,Completed,Credit Card
+ORD_00589,CUST_0002,2026-03-05,Completed,Bank Transfer
+ORD_00590,CUST_0105,2026-09-26,Completed,Digital Wallet
+ORD_00591,CUST_0051,2026-02-10,Completed,Digital Wallet
+ORD_00592,CUST_0010,2026-05-11,Completed,Digital Wallet
+ORD_00593,CUST_0051,2026-06-01,Cancelled,Digital Wallet
+ORD_00594,CUST_0039,2025-11-04,Processing,Digital Wallet
+ORD_00595,CUST_0084,2026-06-14,Completed,Bank Transfer
+ORD_00596,CUST_0117,2025-12-11,Cancelled,Cash on Delivery
+ORD_00597,CUST_0038,15.10.2026,Processing,Credit Card
+ORD_00598,CUST_0094,2025-12-05,Completed,Bank Transfer
+ORD_00599,CUST_0081,03.03.2026,Completed,Digital Wallet
+ORD_00600,CUST_0012,2025-11-20,Completed,Credit Card
+ORD_00601,CUST_0065,2026-10-30,Completed,Bank Transfer
+ORD_00602,CUST_0079,2026-04-09,Completed,Digital Wallet
+ORD_00603,CUST_0085,2026-05-17,Completed,Bank Transfer
+ORD_00604,CUST_0095,2025-11-16,Completed,Credit Card
+ORD_00605,CUST_0024,2026-07-20,Completed,Cash on Delivery
+ORD_00606,CUST_0028,2025-12-19,Completed,Digital Wallet
+ORD_00607,CUST_0107,2026-09-19,Completed,Credit Card
+ORD_00608,CUST_0099,2025-12-18,Completed,Credit Card
+ORD_00609,CUST_0073,2025-12-14,Completed,Cash on Delivery
+ORD_00610,CUST_0030,09.11.2025,Completed,Bank Transfer
+ORD_00611,CUST_0098,2026-03-27,Completed,Cash on Delivery
+ORD_00612,CUST_0067,2026-05-04,Processing,Cash on Delivery
+ORD_00613,CUST_0079,2025-11-16,Completed,Bank Transfer
+ORD_00614,CUST_0023,2026-07-31,Completed,Bank Transfer
+ORD_00615,CUST_0048,2026-03-19,Completed,Bank Transfer
+ORD_00616,CUST_0057,2026-04-18,Completed,Credit Card
+ORD_00617,CUST_0033,2026-03-14,Completed,Credit Card
+ORD_00618,CUST_0034,2026-02-26,Completed,Digital Wallet
+ORD_00619,CUST_0037,2026-05-02,Completed,Digital Wallet
+ORD_00620,CUST_0037,2025-12-06,Processing,Cash on Delivery
+ORD_00621,CUST_0065,2025-12-12,Cancelled,Cash on Delivery
+ORD_00622,CUST_0019,2026-09-04,Completed,Digital Wallet
+ORD_00623,CUST_0060,2026-10-09,Completed,Cash on Delivery
+ORD_00624,CUST_0035,2026-02-14,Completed,Bank Transfer
+ORD_00625,CUST_0095,2026-01-03,Completed,Credit Card
+ORD_00626,CUST_0011,2026-06-06,Completed,Digital Wallet
+ORD_00627,CUST_0038,2026-03-01,Processing,Credit Card
+ORD_00628,CUST_0008,2025-11-06,Completed,Digital Wallet
+ORD_00629,CUST_0116,2025-12-06,Completed,Credit Card
+ORD_00630,CUST_0102,2026-07-06,Completed,Digital Wallet
+ORD_00631,CUST_0004,2026-06-12,Completed,Credit Card
+ORD_00632,CUST_0050,2025-11-07,Completed,Bank Transfer
+ORD_00633,CUST_0120,2025-12-22,Returned,Digital Wallet
+ORD_00634,CUST_0067,2025-12-24,Returned,Digital Wallet
+ORD_00635,CUST_0004,2026-06-18,Completed,Digital Wallet
+ORD_00636,CUST_0046,2025-11-05,Completed,Bank Transfer
+ORD_00637,CUST_0064,2025-11-24,Completed,Credit Card
+ORD_00638,CUST_0051,2026-08-10,Completed,Digital Wallet
+ORD_00639,CUST_0059,2025-12-12,Completed,Credit Card
+ORD_00640,CUST_0117,2026-06-10,Completed,Bank Transfer
+ORD_00641,CUST_0101,2025-12-25,Processing,Cash on Delivery
+ORD_00642,CUST_0037,2025-11-23,Cancelled,Digital Wallet
+ORD_00643,CUST_0101,2025-12-26,Completed,Bank Transfer
+ORD_00644,CUST_0006,2026-07-09,Completed,Credit Card
+ORD_00645,CUST_0073,2026-09-02,Returned,Digital Wallet
+ORD_00646,CUST_0077,2026-08-22,Completed,Credit Card
+ORD_00647,CUST_0116,2026-02-24,Completed,Cash on Delivery
+ORD_00648,CUST_0096,2026-06-16,Completed,Digital Wallet
+ORD_00649,CUST_0068,2025-12-18,Returned,Digital Wallet
+ORD_00650,CUST_0105,2026-01-12,Completed,Credit Card
+ORD_00651,CUST_0034,2026-09-19,Completed,Digital Wallet
+ORD_00652,CUST_0053,2025-11-03,Processing,Bank Transfer
+ORD_00653,CUST_0051,2025-11-20,Completed,Bank Transfer
+ORD_00654,CUST_0098,2025-12-18,Completed,Cash on Delivery
+ORD_00655,CUST_0051,2025-11-07,Completed,Bank Transfer
+ORD_00656,CUST_0085,2025-12-12,Completed,Cash on Delivery
+ORD_00657,CUST_0108,2026-05-12,Completed,Credit Card
+ORD_00658,CUST_0011,2026-03-06,Completed,Credit Card
+ORD_00659,CUST_0115,2026-09-17,Completed,Cash on Delivery
+ORD_00660,CUST_0063,2026-08-17,Completed,Bank Transfer
+ORD_00661,CUST_0099,2026-02-01,Completed,Bank Transfer
+ORD_00662,CUST_0098,2025-12-30,Completed,Cash on Delivery
+ORD_00663,CUST_0051,2026-02-17,Completed,Cash on Delivery
+ORD_00664,CUST_0099,2026-05-15,Processing,Credit Card
+ORD_00665,CUST_0104,2026-01-02,Completed,Cash on Delivery
+ORD_00666,CUST_0024,2026-05-29,Completed,Bank Transfer
+ORD_00667,CUST_0037,2026-03-01,Completed,Cash on Delivery
+ORD_00668,CUST_0008,2026-04-29,Completed,Cash on Delivery
+ORD_00669,CUST_0017,2026-03-12,Completed,Cash on Delivery
+ORD_00670,CUST_0118,2026-01-13,Completed,Credit Card
+ORD_00671,CUST_0064,2026-10-10,Completed,Cash on Delivery
+ORD_00672,CUST_0098,2026-07-26,Completed,Digital Wallet
+ORD_00673,CUST_0045,2025-12-03,Completed,Digital Wallet
+ORD_00674,CUST_0118,2026-09-07,Completed,Digital Wallet
+ORD_00675,CUST_0011,2026-04-02,Completed,Bank Transfer
+ORD_00676,CUST_0005,2026-09-18,Completed,Bank Transfer
+ORD_00677,CUST_0020,10.08.2026,Completed,Cash on Delivery
+ORD_00678,CUST_0012,08.03.2026,Returned,Digital Wallet
+ORD_00679,CUST_0115,2025-11-06,Completed,Credit Card
+ORD_00680,CUST_0048,2026-01-02,Completed,Digital Wallet
+ORD_00681,CUST_0052,2026-04-25,Processing,Digital Wallet
+ORD_00682,CUST_0055,2026-06-02,Completed,Bank Transfer
+ORD_00683,CUST_0102,2025-12-30,Completed,Bank Transfer
+ORD_00684,CUST_0062,2025-12-03,Completed,Credit Card
+ORD_00685,CUST_0015,2026-08-24,Completed,Bank Transfer
+ORD_00686,CUST_0064,2026-10-25,Completed,Credit Card
+ORD_00687,CUST_0114,2026-04-18,Completed,Bank Transfer
+ORD_00688,CUST_0053,2025-12-10,Returned,Digital Wallet
+ORD_00689,CUST_0082,2026-01-03,Completed,Digital Wallet
+ORD_00690,CUST_0047,2025-11-05,Completed,Credit Card
+ORD_00691,CUST_0004,2026-09-26,Completed,Credit Card
+ORD_00692,CUST_0035,2025-11-28,Completed,Bank Transfer
+ORD_00693,CUST_0073,09.05.2026,Completed,Bank Transfer
+ORD_00694,CUST_0045,2026-01-04,Completed,Credit Card
+ORD_00695,CUST_0113,2026-04-30,Completed,Credit Card
+ORD_00696,CUST_0072,2026-06-09,Completed,Digital Wallet
+ORD_00697,CUST_0038,2026-08-22,Completed,Digital Wallet
+ORD_00698,CUST_0069,2025-12-18,Completed,Credit Card
+ORD_00699,CUST_0110,2025-11-03,Completed,Digital Wallet
+ORD_00700,CUST_0119,2025-12-02,Completed,Cash on Delivery
+ORD_00701,CUST_0096,2026-09-20,Cancelled,Bank Transfer
+ORD_00702,CUST_0086,2026-09-09,Completed,Digital Wallet
+ORD_00703,CUST_0054,2026-05-18,Completed,Cash on Delivery
+ORD_00704,CUST_0064,2026-05-19,Completed,Credit Card
+ORD_00705,CUST_0080,2026-06-15,Completed,Digital Wallet
+ORD_00706,CUST_0041,2025-12-11,Completed,Credit Card
+ORD_00707,CUST_0056,2026-09-26,Completed,Bank Transfer
+ORD_00708,CUST_0094,2026-03-05,Completed,Credit Card
+ORD_00709,CUST_0019,2026-02-18,Completed,Cash on Delivery
+ORD_00710,CUST_0026,2026-04-15,Processing,Credit Card
+ORD_00711,CUST_0071,2025-11-11,Completed,Cash on Delivery
+ORD_00712,CUST_0067,2025-12-09,Completed,Digital Wallet
+ORD_00713,CUST_0025,2026-07-15,Completed,Digital Wallet
+ORD_00714,CUST_0015,2025-11-20,Completed,Cash on Delivery
+ORD_00715,CUST_0104,2026-05-20,Cancelled,Bank Transfer
+ORD_00716,CUST_0060,2025-12-27,Completed,Bank Transfer
+ORD_00717,CUST_0001,2026-02-21,Processing,Bank Transfer
+ORD_00718,CUST_0066,2026-01-10,Completed,Digital Wallet
+ORD_00719,CUST_0023,2026-02-07,Completed,Digital Wallet
+ORD_00720,CUST_0046,2026-07-07,Completed,Bank Transfer
+ORD_00721,CUST_0004,2026-01-14,Completed,Credit Card
+ORD_00722,CUST_0102,2026-05-05,Completed,Bank Transfer
+ORD_00723,CUST_0072,2026-03-29,Completed,Credit Card
+ORD_00724,CUST_0060,2026-06-14,Completed,Bank Transfer
+ORD_00725,CUST_0096,2026-10-05,Completed,Credit Card
+ORD_00726,CUST_0061,2026-07-13,Completed,Digital Wallet
+ORD_00727,CUST_0102,2025-12-20,Completed,Bank Transfer
+ORD_00728,CUST_0040,08.11.2025,Completed,Bank Transfer
+ORD_00729,CUST_0034,2025-12-31,Completed,Cash on Delivery
+ORD_00730,CUST_0016,2026-05-17,Completed,Bank Transfer
+ORD_00731,CUST_0066,2025-11-12,Completed,Credit Card
+ORD_00732,CUST_0013,2026-04-06,Completed,Cash on Delivery
+ORD_00733,CUST_0031,2026-05-18,Completed,Bank Transfer
+ORD_00734,CUST_0039,2026-01-29,Completed,Bank Transfer
+ORD_00735,CUST_0087,2026-07-29,Cancelled,Digital Wallet
+ORD_00736,CUST_0055,2025-11-25,Cancelled,Cash on Delivery
+ORD_00737,CUST_0093,2025-11-18,Completed,Credit Card
+ORD_00738,CUST_0039,2026-07-11,Completed,Bank Transfer
+ORD_00739,CUST_0105,2026-04-06,Completed,Digital Wallet
+ORD_00740,CUST_0013,2026-06-25,Completed,Bank Transfer
+ORD_00741,CUST_0053,2026-03-12,Completed,Cash on Delivery
+ORD_00742,CUST_0025,2025-12-27,Completed,Credit Card
+ORD_00743,CUST_0081,2026-08-18,Completed,Digital Wallet
+ORD_00744,CUST_0032,2026-08-09,Completed,Bank Transfer
+ORD_00745,CUST_0010,2026-06-27,Processing,Credit Card
+ORD_00746,CUST_0054,2026-01-03,Completed,Bank Transfer
+ORD_00747,CUST_0032,2026-05-15,Completed,Bank Transfer
+ORD_00748,CUST_0050,2026-02-09,Completed,Cash on Delivery
+ORD_00749,CUST_0116,2025-11-22,Completed,Cash on Delivery
+ORD_00750,CUST_0079,2026-09-27,Completed,Bank Transfer
+ORD_00751,CUST_0063,2025-12-02,Completed,Digital Wallet
+ORD_00752,CUST_0059,2026-10-11,Completed,Cash on Delivery
+ORD_00753,CUST_0082,2026-03-16,Completed,Cash on Delivery
+ORD_00754,CUST_0031,2025-12-13,Completed,Cash on Delivery
+ORD_00755,CUST_0082,2026-04-25,Processing,Cash on Delivery
+ORD_00756,CUST_0075,2026-09-09,Completed,Credit Card
+ORD_00757,CUST_0049,2026-07-13,Completed,Bank Transfer
+ORD_00758,CUST_0095,2026-08-12,Completed,Credit Card
+ORD_00759,CUST_0093,2026-06-12,Completed,Credit Card
+ORD_00760,CUST_0096,2026-06-26,Completed,Bank Transfer
+ORD_00761,CUST_0081,2026-08-30,Completed,Cash on Delivery
+ORD_00762,CUST_0050,2025-12-28,Completed,Digital Wallet
+ORD_00763,CUST_0006,2026-04-03,Completed,Cash on Delivery
+ORD_00764,CUST_0064,2025-12-21,Completed,Cash on Delivery
+ORD_00765,CUST_0011,2026-10-26,Processing,Cash on Delivery
+ORD_00766,CUST_0107,08.10.2026,Completed,Cash on Delivery
+ORD_00767,CUST_0027,2025-11-10,Processing,Digital Wallet
+ORD_00768,CUST_0068,2026-07-02,Completed,Credit Card
+ORD_00769,CUST_0015,2026-10-01,Cancelled,Digital Wallet
+ORD_00770,CUST_0083,2025-12-12,Cancelled,Bank Transfer
+ORD_00771,CUST_0112,2026-05-06,Cancelled,Cash on Delivery
+ORD_00772,CUST_0051,2026-09-27,Completed,Digital Wallet
+ORD_00773,CUST_0058,2025-11-08,Completed,Bank Transfer
+ORD_00774,CUST_0029,2026-06-28,Completed,Digital Wallet
+ORD_00775,CUST_0091,2026-01-14,Processing,Cash on Delivery
+ORD_00776,CUST_0055,2026-09-30,Completed,Cash on Delivery
+ORD_00777,CUST_0023,2026-10-20,Completed,Bank Transfer
+ORD_00778,CUST_0107,2026-10-08,Completed,Digital Wallet
+ORD_00779,CUST_0033,2026-03-28,Completed,Cash on Delivery
+ORD_00780,CUST_0011,2026-09-04,Cancelled,Bank Transfer
+ORD_00781,CUST_0047,2026-08-28,Cancelled,Digital Wallet
+ORD_00782,CUST_0073,2026-01-23,Completed,Digital Wallet
+ORD_00783,CUST_0083,2026-08-22,Completed,Bank Transfer
+ORD_00784,CUST_0037,2025-11-09,Completed,Digital Wallet
+ORD_00785,CUST_0101,2026-05-17,Completed,Digital Wallet
+ORD_00786,CUST_0103,2025-12-23,Completed,Cash on Delivery
+ORD_00787,CUST_0041,2025-11-28,Completed,Cash on Delivery
+ORD_00788,CUST_0112,2025-11-18,Completed,Cash on Delivery
+ORD_00789,CUST_0078,2026-06-28,Completed,Bank Transfer
+ORD_00790,CUST_0105,2026-01-31,Completed,Credit Card
+ORD_00791,CUST_0105,2026-07-10,Completed,Digital Wallet
+ORD_00792,CUST_0101,2025-11-16,Processing,Bank Transfer
+ORD_00793,CUST_0031,2026-01-21,Completed,Credit Card
+ORD_00794,CUST_0009,2026-04-24,Completed,Credit Card
+ORD_00795,CUST_0075,2026-08-06,Completed,Bank Transfer
+ORD_00796,CUST_0086,2026-01-23,Completed,Credit Card
+ORD_00797,CUST_0109,2026-05-30,Completed,Cash on Delivery
+ORD_00798,CUST_0109,2026-09-14,Completed,Bank Transfer
+ORD_00799,CUST_0088,2026-05-26,Cancelled,Digital Wallet
+ORD_00800,CUST_0036,2025-12-24,Completed,Cash on Delivery
+ORD_00801,CUST_0028,2025-11-06,Returned,Digital Wallet
+ORD_00802,CUST_0044,2026-09-08,Completed,Credit Card
+ORD_00803,CUST_0104,2025-11-05,Completed,Cash on Delivery
+ORD_00804,CUST_0065,2026-09-10,Processing,Digital Wallet
+ORD_00805,CUST_0107,2026-04-20,Completed,Bank Transfer
+ORD_00806,CUST_0057,2026-10-06,Processing,Credit Card
+ORD_00807,CUST_0054,2026-08-09,Completed,Digital Wallet
+ORD_00808,CUST_0044,2026-10-31,Completed,Credit Card
+ORD_00809,CUST_0074,2026-02-05,Completed,Digital Wallet
+ORD_00810,CUST_0037,2026-07-27,Cancelled,Bank Transfer
+ORD_00811,CUST_0002,2026-02-26,Completed,Cash on Delivery
+ORD_00812,CUST_0100,2026-03-30,Cancelled,Digital Wallet
+ORD_00813,CUST_0035,2026-05-30,Completed,Credit Card
+ORD_00814,CUST_0111,2026-09-09,Completed,Bank Transfer
+ORD_00815,CUST_0012,2026-10-25,Completed,Cash on Delivery
+ORD_00816,CUST_0024,2026-07-28,Completed,Credit Card
+ORD_00817,CUST_0025,2026-03-05,Returned,Bank Transfer
+ORD_00818,CUST_0060,2026-03-06,Completed,Credit Card
+ORD_00819,CUST_0065,2026-07-15,Completed,Bank Transfer
+ORD_00820,CUST_0028,2025-12-25,Completed,Cash on Delivery
+ORD_00821,CUST_0081,26.11.2025,Completed,Cash on Delivery
+ORD_00822,CUST_0058,2026-02-06,Processing,Credit Card
+ORD_00823,CUST_0118,2026-01-10,Completed,Bank Transfer
+ORD_00824,CUST_0059,2026-01-13,Completed,Digital Wallet
+ORD_00825,CUST_0105,2025-12-24,Completed,Cash on Delivery
+ORD_00826,CUST_0006,2025-11-10,Completed,Digital Wallet
+ORD_00827,CUST_0096,2025-11-05,Completed,Digital Wallet
+ORD_00828,CUST_0033,2026-10-26,Completed,Credit Card
+ORD_00829,CUST_0007,2026-03-09,Completed,Credit Card
+ORD_00830,CUST_0012,2026-02-19,Completed,Credit Card
+ORD_00831,CUST_0043,2026-06-21,Completed,Bank Transfer
+ORD_00832,CUST_0077,2025-12-21,Returned,Cash on Delivery
+ORD_00833,CUST_0111,2026-10-11,Completed,Cash on Delivery
+ORD_00834,CUST_0032,2026-08-04,Processing,Digital Wallet
+ORD_00835,CUST_0097,2025-11-21,Completed,Credit Card
+ORD_00836,CUST_0120,2026-03-04,Completed,Bank Transfer
+ORD_00837,CUST_0086,2026-09-11,Completed,Cash on Delivery
+ORD_00838,CUST_0104,2026-10-09,Completed,Bank Transfer
+ORD_00839,CUST_0105,25.03.2026,Cancelled,Credit Card
+ORD_00840,CUST_0098,2026-05-25,Completed,Credit Card
+ORD_00841,CUST_0079,2025-12-09,Completed,Cash on Delivery
+ORD_00842,CUST_0044,2026-10-28,Completed,Digital Wallet
+ORD_00843,CUST_0090,2025-12-24,Returned,Digital Wallet
+ORD_00844,CUST_0119,2026-10-08,Completed,Credit Card
+ORD_00845,CUST_0096,2026-06-09,Completed,Credit Card
+ORD_00846,CUST_0075,2026-05-22,Returned,Digital Wallet
+ORD_00847,CUST_0028,2026-04-13,Completed,Credit Card
+ORD_00848,CUST_0017,2025-12-24,Completed,Cash on Delivery
+ORD_00849,CUST_0108,2025-12-11,Completed,Cash on Delivery
+ORD_00850,CUST_0057,21.12.2025,Completed,Bank Transfer
+ORD_00851,CUST_0010,2025-12-13,Completed,Digital Wallet
+ORD_00852,CUST_0083,2026-08-01,Completed,Credit Card
+ORD_00853,CUST_0053,2026-02-05,Completed,Bank Transfer
+ORD_00854,CUST_0068,2025-11-14,Completed,Cash on Delivery
+ORD_00855,CUST_0028,2026-10-19,Completed,Digital Wallet
+ORD_00856,CUST_0065,13.09.2026,Completed,Cash on Delivery
+ORD_00857,CUST_0052,2026-10-02,Completed,Credit Card
+ORD_00858,CUST_0054,2026-10-29,Completed,Bank Transfer
+ORD_00859,CUST_0047,2025-12-10,Completed,Credit Card
+ORD_00860,CUST_0046,2026-02-24,Completed,Credit Card
+ORD_00861,CUST_0113,2026-07-23,Cancelled,Digital Wallet
+ORD_00862,CUST_0084,2026-06-28,Completed,Digital Wallet
+ORD_00863,CUST_0075,2025-12-06,Completed,Credit Card
+ORD_00864,CUST_0033,2026-08-16,Cancelled,Digital Wallet
+ORD_00865,CUST_0027,2025-12-22,Completed,Bank Transfer
+ORD_00866,CUST_0096,22.12.2025,Completed,Bank Transfer
+ORD_00867,CUST_0021,2026-04-23,Returned,Credit Card
+ORD_00868,CUST_0006,2026-05-16,Completed,Bank Transfer
+ORD_00869,CUST_0086,2026-05-11,Completed,Credit Card
+ORD_00870,CUST_0078,2025-11-22,Completed,Bank Transfer
+ORD_00871,CUST_0013,2026-09-11,Completed,Cash on Delivery
+ORD_00872,CUST_0003,2026-01-01,Completed,Credit Card
+ORD_00873,CUST_0093,2025-11-30,Completed,Bank Transfer
+ORD_00874,CUST_0109,2026-09-15,Completed,Cash on Delivery
+ORD_00875,CUST_0033,2026-10-13,Completed,Credit Card
+ORD_00876,CUST_0075,2026-09-04,Completed,Bank Transfer
+ORD_00877,CUST_0011,2026-08-14,Completed,Bank Transfer
+ORD_00878,CUST_0108,2026-06-11,Returned,Cash on Delivery
+ORD_00879,CUST_0016,2026-04-29,Completed,Digital Wallet
+ORD_00880,CUST_0048,2025-11-20,Completed,Digital Wallet
+ORD_00881,CUST_0059,2026-03-01,Returned,Cash on Delivery
+ORD_00882,CUST_0076,2026-02-14,Completed,Cash on Delivery
+ORD_00883,CUST_0089,2025-12-30,Cancelled,Credit Card
+ORD_00884,CUST_0087,2026-07-09,Completed,Digital Wallet
+ORD_00885,CUST_0118,2026-04-06,Completed,Credit Card
+ORD_00886,CUST_0006,2025-11-19,Completed,Bank Transfer
+ORD_00887,CUST_0115,2025-12-21,Completed,Cash on Delivery
+ORD_00888,CUST_0098,2026-06-22,Completed,Credit Card
+ORD_00889,CUST_0043,2025-11-18,Completed,Cash on Delivery
+ORD_00890,CUST_0066,2026-08-31,Returned,Credit Card
+ORD_00891,CUST_0008,2026-04-06,Completed,Bank Transfer
+ORD_00892,CUST_0008,2026-03-31,Completed,Bank Transfer
+ORD_00893,CUST_0100,2026-05-16,Completed,Digital Wallet
+ORD_00894,CUST_0065,20.08.2026,Completed,Digital Wallet
+ORD_00895,CUST_0081,2026-02-04,Completed,Bank Transfer
+ORD_00896,CUST_0088,2026-06-20,Completed,Credit Card
+ORD_00897,CUST_0093,2026-05-05,Completed,Cash on Delivery
+ORD_00898,CUST_0009,2026-01-01,Processing,Bank Transfer
+ORD_00899,CUST_0036,2026-09-11,Completed,Bank Transfer
+ORD_00900,CUST_0028,2026-08-09,Completed,Credit Card
+ORD_00901,CUST_0043,2026-06-12,Completed,Bank Transfer
+ORD_00902,CUST_0042,2026-08-31,Completed,Bank Transfer
+ORD_00903,CUST_0066,2026-09-07,Completed,Credit Card
+ORD_00904,CUST_0048,2026-07-03,Completed,Bank Transfer
+ORD_00905,CUST_0101,2026-08-25,Completed,Digital Wallet
+ORD_00906,CUST_0093,2026-06-28,Completed,Digital Wallet
+ORD_00907,CUST_0013,2026-06-21,Completed,Digital Wallet
+ORD_00908,CUST_0100,2026-05-27,Completed,Digital Wallet
+ORD_00909,CUST_0120,2026-07-21,Returned,Bank Transfer
+ORD_00910,CUST_0034,2025-12-07,Returned,Cash on Delivery
+ORD_00911,CUST_0032,2026-09-12,Completed,Digital Wallet
+ORD_00912,CUST_0071,2026-09-08,Completed,Digital Wallet
+ORD_00913,CUST_0084,2025-11-07,Completed,Bank Transfer
+ORD_00914,CUST_0094,2026-08-20,Cancelled,Bank Transfer
+ORD_00915,CUST_0113,2025-11-30,Completed,Credit Card
+ORD_00916,CUST_0090,2026-01-29,Completed,Digital Wallet
+ORD_00917,CUST_0018,2026-07-17,Returned,Credit Card
+ORD_00918,CUST_0093,2025-12-07,Completed,Digital Wallet
+ORD_00919,CUST_0091,2026-08-17,Completed,Cash on Delivery
+ORD_00920,CUST_0065,2026-08-23,Completed,Bank Transfer
+ORD_00921,CUST_0058,2026-04-11,Processing,Bank Transfer
+ORD_00922,CUST_0020,2025-11-02,Completed,Credit Card
+ORD_00923,CUST_0010,2026-01-09,Processing,Credit Card
+ORD_00924,CUST_0041,2026-05-26,Completed,Bank Transfer
+ORD_00925,CUST_0065,2026-10-24,Completed,Bank Transfer
+ORD_00926,CUST_0098,2026-06-01,Completed,Bank Transfer
+ORD_00927,CUST_0041,2025-12-30,Cancelled,Digital Wallet
+ORD_00928,CUST_0069,2026-06-02,Completed,Digital Wallet
+ORD_00929,CUST_0056,2026-04-24,Completed,Cash on Delivery
+ORD_00930,CUST_0099,2026-08-01,Completed,Digital Wallet
+ORD_00931,CUST_0115,2025-11-25,Completed,Bank Transfer
+ORD_00932,CUST_0060,2026-07-25,Completed,Digital Wallet
+ORD_00933,CUST_0119,2026-04-25,Cancelled,Credit Card
+ORD_00934,CUST_0040,2026-10-16,Completed,Bank Transfer
+ORD_00935,CUST_0078,2026-02-01,Completed,Digital Wallet
+ORD_00936,CUST_0106,2026-06-01,Processing,Bank Transfer
+ORD_00937,CUST_0114,2026-10-03,Completed,Credit Card
+ORD_00938,CUST_0093,2025-11-24,Completed,Credit Card
+ORD_00939,CUST_0112,2026-10-06,Completed,Digital Wallet
+ORD_00940,CUST_0103,2026-06-24,Completed,Bank Transfer
+ORD_00941,CUST_0110,2025-11-16,Completed,Cash on Delivery
+ORD_00942,CUST_0068,2026-01-15,Completed,Credit Card
+ORD_00943,CUST_0099,2026-07-03,Completed,Cash on Delivery
+ORD_00944,CUST_0067,2025-11-16,Completed,Digital Wallet
+ORD_00945,CUST_0027,2026-05-12,Processing,Credit Card
+ORD_00946,CUST_0061,2026-02-03,Completed,Cash on Delivery
+ORD_00947,CUST_0093,2026-05-28,Completed,Credit Card
+ORD_00948,CUST_0106,2025-11-11,Processing,Cash on Delivery
+ORD_00949,CUST_0034,2026-09-08,Processing,Bank Transfer
+ORD_00950,CUST_0087,2026-10-21,Completed,Bank Transfer
+ORD_00951,CUST_0116,2026-10-19,Completed,Digital Wallet
+ORD_00952,CUST_0069,2026-07-20,Completed,Credit Card
+ORD_00953,CUST_0053,2025-11-30,Completed,Cash on Delivery
+ORD_00954,CUST_0057,2026-07-23,Completed,Digital Wallet
+ORD_00955,CUST_0060,2025-11-06,Completed,Bank Transfer
+ORD_00956,CUST_0101,2025-11-06,Completed,Bank Transfer
+ORD_00957,CUST_0040,2026-01-25,Completed,Digital Wallet
+ORD_00958,CUST_0038,2026-04-03,Completed,Credit Card
+ORD_00959,CUST_0084,2026-07-28,Completed,Cash on Delivery
+ORD_00960,CUST_0051,2026-06-22,Completed,Bank Transfer
+ORD_00961,CUST_0068,2026-03-16,Returned,Digital Wallet
+ORD_00962,CUST_0038,2026-01-04,Completed,Bank Transfer
+ORD_00963,CUST_0036,2026-10-30,Completed,Bank Transfer
+ORD_00964,CUST_0069,2026-03-08,Completed,Cash on Delivery
+ORD_00965,CUST_0058,2026-03-18,Completed,Credit Card
+ORD_00966,CUST_0062,2025-12-08,Completed,Credit Card
+ORD_00967,CUST_0112,2026-08-08,Completed,Cash on Delivery
+ORD_00968,CUST_0078,2026-06-27,Completed,Digital Wallet
+ORD_00969,CUST_0112,2025-12-21,Cancelled,Digital Wallet
+ORD_00970,CUST_0118,2025-11-19,Completed,Credit Card
+ORD_00971,CUST_0016,2026-06-21,Completed,Bank Transfer
+ORD_00972,CUST_0085,2026-06-11,Completed,Bank Transfer
+ORD_00973,CUST_0072,2026-01-04,Completed,Digital Wallet
+ORD_00974,CUST_0059,2026-10-11,Completed,Cash on Delivery
+ORD_00975,CUST_0042,05.12.2025,Completed,Bank Transfer
+ORD_00976,CUST_0059,2026-03-11,Completed,Digital Wallet
+ORD_00977,CUST_0009,2026-10-08,Completed,Cash on Delivery
+ORD_00978,CUST_0096,2026-03-05,Completed,Credit Card
+ORD_00979,CUST_0017,2026-06-04,Completed,Cash on Delivery
+ORD_00980,CUST_0052,2026-02-24,Completed,Credit Card
+ORD_00981,CUST_0021,2026-01-04,Completed,Digital Wallet
+ORD_00982,CUST_0113,2026-10-25,Completed,Cash on Delivery
+ORD_00983,CUST_0089,2026-03-01,Completed,Digital Wallet
+ORD_00984,CUST_0081,2026-09-18,Cancelled,Credit Card
+ORD_00985,CUST_0088,2025-12-23,Completed,Bank Transfer
+ORD_00986,CUST_0015,2025-12-19,Completed,Bank Transfer
+ORD_00987,CUST_0070,2025-11-08,Cancelled,Credit Card
+ORD_00988,CUST_0023,2026-06-09,Completed,Bank Transfer
+ORD_00989,CUST_0057,2026-02-12,Completed,Bank Transfer
+ORD_00990,CUST_0041,2026-09-05,Completed,Cash on Delivery
+ORD_00991,CUST_0013,2026-03-28,Completed,Cash on Delivery
+ORD_00992,CUST_0084,2026-10-18,Returned,Bank Transfer
+ORD_00993,CUST_0003,2025-12-13,Completed,Cash on Delivery
+ORD_00994,CUST_0049,2026-09-07,Completed,Credit Card
+ORD_00995,CUST_0047,2026-07-31,Completed,Cash on Delivery
+ORD_00996,CUST_0064,2026-07-29,Completed,Cash on Delivery
+ORD_00997,CUST_0067,2026-08-28,Completed,Cash on Delivery
+ORD_00998,CUST_0100,2026-07-25,Completed,Digital Wallet
+ORD_00999,CUST_0068,2026-05-30,Completed,Credit Card
+ORD_01000,CUST_0083,2025-12-01,Completed,Bank Transfer
+ORD_01001,CUST_0035,2025-11-08,Completed,Bank Transfer
+ORD_01002,CUST_0058,2026-09-29,Completed,Digital Wallet
+ORD_01003,CUST_0034,2026-05-26,Completed,Cash on Delivery
+ORD_01004,CUST_0004,2026-08-08,Completed,Credit Card
+ORD_01005,CUST_0029,2026-03-31,Completed,Credit Card
+ORD_01006,CUST_0097,2025-11-27,Returned,Bank Transfer
+ORD_01007,CUST_0083,2025-11-29,Completed,Digital Wallet
+ORD_01008,CUST_0069,2026-06-23,Completed,Digital Wallet
+ORD_01009,CUST_0006,2026-03-10,Completed,Digital Wallet
+ORD_01010,CUST_0112,2025-12-17,Completed,Digital Wallet
+ORD_01011,CUST_0099,2026-04-04,Cancelled,Credit Card
+ORD_01012,CUST_0080,2025-11-15,Completed,Cash on Delivery
+ORD_01013,CUST_0074,2026-05-12,Completed,Bank Transfer
+ORD_01014,CUST_0095,2026-01-02,Completed,Credit Card
+ORD_01015,CUST_0023,2026-08-09,Completed,Digital Wallet
+ORD_01016,CUST_0022,2026-01-19,Completed,Digital Wallet
+ORD_01017,CUST_0101,2026-03-20,Completed,Bank Transfer
+ORD_01018,CUST_0078,2025-11-03,Completed,Cash on Delivery
+ORD_01019,CUST_0067,2025-11-17,Processing,Cash on Delivery
+ORD_01020,CUST_0119,2026-02-22,Cancelled,Cash on Delivery
+ORD_01021,CUST_0082,2026-03-30,Completed,Digital Wallet
+ORD_01022,CUST_0072,2026-05-19,Completed,Credit Card
+ORD_01023,CUST_0113,2026-01-11,Completed,Credit Card
+ORD_01024,CUST_0053,2026-06-27,Completed,Cash on Delivery
+ORD_01025,CUST_0027,2026-09-04,Completed,Bank Transfer
+ORD_01026,CUST_0006,2026-08-01,Completed,Cash on Delivery
+ORD_01027,CUST_0057,2025-11-10,Processing,Cash on Delivery
+ORD_01028,CUST_0069,2026-03-31,Completed,Bank Transfer
+ORD_01029,CUST_0059,2025-11-25,Completed,Cash on Delivery
+ORD_01030,CUST_0050,2025-12-26,Completed,Bank Transfer
+ORD_01031,CUST_0019,2026-10-26,Completed,Bank Transfer
+ORD_01032,CUST_0066,2025-12-03,Completed,Credit Card
+ORD_01033,CUST_0039,2026-04-07,Cancelled,Bank Transfer
+ORD_01034,CUST_0013,2026-05-26,Completed,Cash on Delivery
+ORD_01035,CUST_0007,2026-06-30,Completed,Bank Transfer
+ORD_01036,CUST_0014,2026-05-02,Completed,Cash on Delivery
+ORD_01037,CUST_0054,2025-11-03,Completed,Bank Transfer
+ORD_01038,CUST_0020,2026-01-26,Completed,Credit Card
+ORD_01039,CUST_0082,2026-04-15,Cancelled,Cash on Delivery
+ORD_01040,CUST_0105,2025-11-21,Returned,Cash on Delivery
+ORD_01041,CUST_0090,2026-02-05,Completed,Cash on Delivery
+ORD_01042,CUST_0074,2025-11-08,Completed,Bank Transfer
+ORD_01043,CUST_0006,2025-11-19,Completed,Credit Card
+ORD_01044,CUST_0028,2026-02-24,Completed,Credit Card
+ORD_01045,CUST_0069,2025-12-01,Completed,Credit Card
+ORD_01046,CUST_0084,2026-05-06,Completed,Credit Card
+ORD_01047,CUST_0091,2026-06-25,Completed,Bank Transfer
+ORD_01048,CUST_0071,2026-08-10,Completed,Cash on Delivery
+ORD_01049,CUST_0010,2025-12-17,Completed,Digital Wallet
+ORD_01050,CUST_0035,2025-12-09,Completed,Credit Card
+ORD_01051,CUST_0024,2025-11-25,Completed,Digital Wallet
+ORD_01052,CUST_0022,2026-06-03,Completed,Bank Transfer
+ORD_01053,CUST_0055,2026-07-02,Completed,Bank Transfer
+ORD_01054,CUST_0029,2025-11-08,Cancelled,Digital Wallet
+ORD_01055,CUST_0020,2026-10-05,Completed,Cash on Delivery
+ORD_01056,CUST_0054,2025-11-12,Completed,Digital Wallet
+ORD_01057,CUST_0019,2026-04-25,Completed,Bank Transfer
+ORD_01058,CUST_0111,2026-07-03,Completed,Digital Wallet
+ORD_01059,CUST_0053,2026-09-08,Completed,Credit Card
+ORD_01060,CUST_0067,2026-07-05,Completed,Credit Card
+ORD_01061,CUST_0027,2026-08-10,Completed,Cash on Delivery
+ORD_01062,CUST_0097,2026-01-31,Completed,Digital Wallet
+ORD_01063,CUST_0070,2026-08-16,Completed,Digital Wallet
+ORD_01064,CUST_0100,2025-11-19,Completed,Digital Wallet
+ORD_01065,CUST_0002,2026-09-18,Processing,Digital Wallet
+ORD_01066,CUST_0065,2026-04-27,Completed,Cash on Delivery
+ORD_01067,CUST_0089,2026-08-17,Completed,Bank Transfer
+ORD_01068,CUST_0079,2026-03-19,Completed,Cash on Delivery
+ORD_01069,CUST_0051,2026-06-06,Processing,Bank Transfer
+ORD_01070,CUST_0120,2026-04-19,Completed,Bank Transfer
+ORD_01071,CUST_0098,2026-07-12,Completed,Bank Transfer
+ORD_01072,CUST_0109,2025-11-19,Completed,Digital Wallet
+ORD_01073,CUST_0113,2025-11-14,Completed,Cash on Delivery
+ORD_01074,CUST_0007,2025-12-27,Completed,Bank Transfer
+ORD_01075,CUST_0036,2025-12-07,Cancelled,Credit Card
+ORD_01076,CUST_0010,2026-09-08,Completed,Bank Transfer
+ORD_01077,CUST_0109,2025-12-21,Completed,Cash on Delivery
+ORD_01078,CUST_0032,2026-10-22,Completed,Digital Wallet
+ORD_01079,CUST_0048,2026-01-30,Completed,Credit Card
+ORD_01080,CUST_0074,2025-12-12,Completed,Bank Transfer
+ORD_01081,CUST_0054,2026-08-05,Completed,Digital Wallet
+ORD_01082,CUST_0116,2026-06-12,Completed,Cash on Delivery
+ORD_01083,CUST_0025,2026-04-07,Completed,Cash on Delivery
+ORD_01084,CUST_0015,2026-05-01,Completed,Credit Card
+ORD_01085,CUST_0073,2026-07-07,Completed,Credit Card
+ORD_01086,CUST_0019,2025-12-23,Completed,Bank Transfer
+ORD_01087,CUST_0017,2026-10-30,Completed,Digital Wallet
+ORD_01088,CUST_0041,2026-10-21,Completed,Digital Wallet
+ORD_01089,CUST_0084,2026-06-09,Completed,Cash on Delivery
+ORD_01090,CUST_0039,2025-12-16,Completed,Cash on Delivery
+ORD_01091,CUST_0023,2026-06-21,Completed,Bank Transfer
+ORD_01092,CUST_0052,2025-11-17,Completed,Bank Transfer
+ORD_01093,CUST_0063,2025-11-08,Completed,Cash on Delivery
+ORD_01094,CUST_0110,2025-12-30,Completed,Cash on Delivery
+ORD_01095,CUST_0048,2026-03-23,Cancelled,Digital Wallet
+ORD_01096,CUST_0075,2026-09-07,Completed,Digital Wallet
+ORD_01097,CUST_0067,2026-07-11,Completed,Digital Wallet
+ORD_01098,CUST_0033,2026-07-17,Completed,Bank Transfer
+ORD_01099,CUST_0082,2026-03-08,Completed,Digital Wallet
+ORD_01100,CUST_0119,2026-02-03,Processing,Credit Card
+ORD_01101,CUST_0038,2026-02-13,Completed,Credit Card
+ORD_01102,CUST_0036,2026-10-26,Cancelled,Digital Wallet
+ORD_01103,CUST_0077,2025-11-10,Completed,Digital Wallet
+ORD_01104,CUST_0003,2026-09-06,Completed,Cash on Delivery
+ORD_01105,CUST_0065,2026-05-10,Completed,Cash on Delivery
+ORD_01106,CUST_0091,2026-03-13,Completed,Bank Transfer
+ORD_01107,CUST_0051,2026-07-10,Completed,Credit Card
+ORD_01108,CUST_0081,2026-04-02,Cancelled,Credit Card
+ORD_01109,CUST_0006,2026-09-09,Completed,Bank Transfer
+ORD_01110,CUST_0039,2026-09-20,Completed,Digital Wallet
+ORD_01111,CUST_0028,2026-03-06,Cancelled,Digital Wallet
+ORD_01112,CUST_0037,2026-01-05,Completed,Bank Transfer
+ORD_01113,CUST_0056,2026-05-16,Completed,Credit Card
+ORD_01114,CUST_0002,2026-09-25,Completed,Credit Card
+ORD_01115,CUST_0107,2025-12-19,Completed,Digital Wallet
+ORD_01116,CUST_0102,2026-05-28,Completed,Cash on Delivery
+ORD_01117,CUST_0036,2026-06-01,Completed,Bank Transfer
+ORD_01118,CUST_0107,2026-07-13,Cancelled,Bank Transfer
+ORD_01119,CUST_0092,2025-12-01,Completed,Digital Wallet
+ORD_01120,CUST_0063,2026-07-06,Completed,Bank Transfer
+ORD_01121,CUST_0011,24.09.2026,Completed,Credit Card
+ORD_01122,CUST_0077,2025-12-12,Completed,Digital Wallet
+ORD_01123,CUST_0007,2025-12-25,Completed,Credit Card
+ORD_01124,CUST_0054,2026-10-20,Completed,Cash on Delivery
+ORD_01125,CUST_0092,2025-12-12,Completed,Bank Transfer
+ORD_01126,CUST_0055,2026-09-01,Completed,Bank Transfer
+ORD_01127,CUST_0038,2026-04-04,Completed,Credit Card
+ORD_01128,CUST_0001,2025-12-27,Cancelled,Digital Wallet
+ORD_01129,CUST_0085,2026-09-08,Completed,Digital Wallet
+ORD_01130,CUST_0005,2026-03-16,Completed,Bank Transfer
+ORD_01131,CUST_0092,2026-04-14,Completed,Credit Card
+ORD_01132,CUST_0071,2026-02-08,Completed,Cash on Delivery
+ORD_01133,CUST_0047,2026-05-16,Completed,Credit Card
+ORD_01134,CUST_0035,2025-12-08,Completed,Digital Wallet
+ORD_01135,CUST_0001,2026-02-22,Completed,Bank Transfer
+ORD_01136,CUST_0060,2026-10-19,Completed,Bank Transfer
+ORD_01137,CUST_0106,2025-12-30,Completed,Bank Transfer
+ORD_01138,CUST_0021,2026-06-11,Completed,Cash on Delivery
+ORD_01139,CUST_0052,2026-01-25,Processing,Cash on Delivery
+ORD_01140,CUST_0109,2026-07-30,Completed,Digital Wallet
+ORD_01141,CUST_0032,2025-12-01,Completed,Credit Card
+ORD_01142,CUST_0005,2026-10-19,Completed,Credit Card
+ORD_01143,CUST_0106,2026-03-19,Completed,Credit Card
+ORD_01144,CUST_0058,2025-12-25,Cancelled,Cash on Delivery
+ORD_01145,CUST_0097,2025-11-17,Completed,Bank Transfer
+ORD_01146,CUST_0061,2025-12-10,Completed,Digital Wallet
+ORD_01147,CUST_0115,2026-04-16,Processing,Digital Wallet
+ORD_01148,CUST_0039,2026-01-30,Completed,Cash on Delivery
+ORD_01149,CUST_0118,2026-08-22,Completed,Cash on Delivery
+ORD_01150,CUST_0087,2026-03-10,Processing,Bank Transfer
+ORD_01151,CUST_0087,2025-12-28,Completed,Bank Transfer
+ORD_01152,CUST_0030,2026-05-26,Completed,Cash on Delivery
+ORD_01153,CUST_0086,2026-07-02,Completed,Digital Wallet
+ORD_01154,CUST_0111,2025-12-09,Completed,Bank Transfer
+ORD_01155,CUST_0013,2025-12-09,Completed,Bank Transfer
+ORD_01156,CUST_0116,2025-11-09,Completed,Digital Wallet
+ORD_01157,CUST_0023,2026-07-14,Completed,Bank Transfer
+ORD_01158,CUST_0119,2026-06-14,Completed,Digital Wallet
+ORD_01159,CUST_0066,2026-03-28,Completed,Credit Card
+ORD_01160,CUST_0108,2026-08-28,Completed,Bank Transfer
+ORD_01161,CUST_0022,2026-08-12,Completed,Bank Transfer
+ORD_01162,CUST_0030,2026-05-13,Completed,Credit Card
+ORD_01163,CUST_0107,2026-09-07,Completed,Digital Wallet
+ORD_01164,CUST_0115,2025-12-18,Completed,Bank Transfer
+ORD_01165,CUST_0010,2025-11-26,Completed,Credit Card
+ORD_01166,CUST_0115,2026-01-02,Completed,Digital Wallet
+ORD_01167,CUST_0073,2025-11-14,Completed,Bank Transfer
+ORD_01168,CUST_0011,2026-04-20,Completed,Cash on Delivery
+ORD_01169,CUST_0119,2026-10-05,Completed,Credit Card
+ORD_01170,CUST_0019,2025-11-10,Completed,Digital Wallet
+ORD_01171,CUST_0028,2025-11-29,Completed,Cash on Delivery
+ORD_01172,CUST_0107,2026-03-19,Completed,Digital Wallet
+ORD_01173,CUST_0047,2026-10-04,Completed,Cash on Delivery
+ORD_01174,CUST_0097,2026-01-22,Completed,Cash on Delivery
+ORD_01175,CUST_0074,2026-04-11,Completed,Credit Card
+ORD_01176,CUST_0106,2025-11-10,Completed,Credit Card
+ORD_01177,CUST_0050,2025-12-05,Completed,Cash on Delivery
+ORD_01178,CUST_0013,2026-10-26,Processing,Credit Card
+ORD_01179,CUST_0034,17.10.2026,Completed,Digital Wallet
+ORD_01180,CUST_0111,2025-11-02,Completed,Bank Transfer
+ORD_01181,CUST_0049,2026-10-12,Completed,Digital Wallet
+ORD_01182,CUST_0061,2026-06-04,Completed,Cash on Delivery
+ORD_01183,CUST_0088,2026-09-07,Completed,Digital Wallet
+ORD_01184,CUST_0071,2026-03-20,Completed,Cash on Delivery
+ORD_01185,CUST_0026,2026-04-14,Processing,Digital Wallet
+ORD_01186,CUST_0007,2026-04-03,Completed,Digital Wallet
+ORD_01187,CUST_0103,2026-06-16,Completed,Credit Card
+ORD_01188,CUST_0113,2025-12-03,Completed,Cash on Delivery
+ORD_01189,CUST_0043,2025-11-07,Completed,Cash on Delivery
+ORD_01190,CUST_0003,2026-01-18,Completed,Bank Transfer
+ORD_01191,CUST_0117,2026-07-01,Completed,Digital Wallet
+ORD_01192,CUST_0026,2025-12-17,Completed,Digital Wallet
+ORD_01193,CUST_0025,2026-06-18,Completed,Bank Transfer
+ORD_01194,CUST_0073,2026-10-19,Completed,Cash on Delivery
+ORD_01195,CUST_0065,2025-11-22,Completed,Digital Wallet
+ORD_01196,CUST_0086,2026-06-18,Processing,Bank Transfer
+ORD_01197,CUST_0115,2026-03-15,Completed,Bank Transfer
+ORD_01198,CUST_0118,2026-09-07,Completed,Bank Transfer
+ORD_01199,CUST_0078,2025-12-11,Completed,Digital Wallet
+ORD_01200,CUST_0019,2026-06-26,Processing,Cash on Delivery
+ORD_01179,CUST_0034,17.10.2026,Completed,Digital Wallet
+ORD_00866,CUST_0096,22.12.2025,Completed,Bank Transfer
+ORD_00102,CUST_0008,15.02.2026,Completed,Credit Card
+ORD_00440,CUST_0110,07.05.2026,Completed,Digital Wallet
+ORD_00059,CUST_0094,22.10.2026,Completed,Bank Transfer
+ORD_01121,CUST_0011,24.09.2026,Completed,Credit Card
+ORD_00324,CUST_0022,13.04.2026,Completed,Bank Transfer
+ORD_00975,CUST_0042,05.12.2025,Completed,Bank Transfer
+ORD_00412,CUST_0014,07.06.2026,Completed,Credit Card
+ORD_00856,CUST_0065,13.09.2026,Completed,Cash on Delivery
+ORD_00821,CUST_0081,26.11.2025,Completed,Cash on Delivery
+ORD_00045,CUST_0023,09.11.2025,Completed,Credit Card
